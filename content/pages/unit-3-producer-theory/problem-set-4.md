@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit 3: Producer Theory'
+parent_type: CourseSection
 parent_uid: 3abe52b2-06f4-e040-5bcb-7ce684de6ae6
 title: Problem Set 4
 uid: 7202f9bf-94b4-33fc-7f69-0ef73b511c93

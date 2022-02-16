@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit 6: Topics in Intermediate Microeconomics'
+parent_type: CourseSection
 parent_uid: 2b057e13-f81e-86aa-d632-c23c1074b663
 title: Factor Markets
 uid: 9af14389-2f78-d160-e3b7-064bcdef0053

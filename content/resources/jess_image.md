@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-01sc-principles-of-microeconomics-fall-2011/d0ce9da3b7d3c62b63bda660db06c4d9_jess_image.jpg
+file: /media/courses/14-01sc-principles-of-microeconomics-fall-2011/d0ce9da3b7d3c62b63bda660db06c4d9_jess_image.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Meet the TAs
+parent_type: CourseSection
 resourcetype: Image
 title: jess_image.jpg
 uid: d0ce9da3-b7d3-c62b-63bd-a660db06c4d9

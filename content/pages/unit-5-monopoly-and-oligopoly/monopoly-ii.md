@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit 5: Monopoly and Oligopoly'
+parent_type: CourseSection
 parent_uid: 51ebf007-53b9-a85a-f746-a5c03a54785d
 title: Monopoly II
 uid: 50af805f-c0a0-d661-779c-f0c42425f15d

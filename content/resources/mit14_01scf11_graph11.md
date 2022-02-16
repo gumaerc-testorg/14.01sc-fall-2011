@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains graphs and figures related to competition II.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-01sc-principles-of-microeconomics-fall-2011/25f1ac025d14062ec1a2cd564bd5a8e4_MIT14_01SCF11_graph11.pdf
+file: /media/courses/14-01sc-principles-of-microeconomics-fall-2011/25f1ac025d14062ec1a2cd564bd5a8e4_MIT14_01SCF11_graph11.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Competition II
+parent_type: CourseSection
 resourcetype: Document
 title: MIT14_01SCF11_graph11.pdf
 uid: 25f1ac02-5d14-062e-c1a2-cd564bd5a8e4

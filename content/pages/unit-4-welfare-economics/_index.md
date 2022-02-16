@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Unit 4: Welfare Economics'
 uid: 74a70dbf-2813-4c7f-25ca-e0a217b6ec6f
 ---

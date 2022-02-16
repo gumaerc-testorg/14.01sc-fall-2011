@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-01sc-principles-of-microeconomics-fall-2011/d22ce2e9eb9dd3c12417afb4438a8442_zFIB8-30YhA.pdf
+file: /media/courses/14-01sc-principles-of-microeconomics-fall-2011/d22ce2e9eb9dd3c12417afb4438a8442_zFIB8-30YhA.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: d22ce2e9-eb9d-d3c1-2417-afb4438a8442

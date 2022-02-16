@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit 2: Consumer Theory'
+parent_type: CourseSection
 parent_uid: 6d0eabb4-bf84-c44f-6ed5-096dcf2cf3a4
 title: Preferences and Utility
 uid: eba60351-486e-4457-3f84-ae3b47789fde

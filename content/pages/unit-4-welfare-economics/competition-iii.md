@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit 4: Welfare Economics'
+parent_type: CourseSection
 parent_uid: 74a70dbf-2813-4c7f-25ca-e0a217b6ec6f
 title: Competition III
 uid: 67a95d63-65f3-7075-74af-48aaa0010a46

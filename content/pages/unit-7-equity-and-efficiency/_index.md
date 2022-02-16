@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Unit 7: Equity and Efficiency'
 uid: c94fdf90-5457-1202-c278-c37041d32e5c
 ---

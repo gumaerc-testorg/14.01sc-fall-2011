@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit 7: Equity and Efficiency'
+parent_type: CourseSection
 parent_uid: c94fdf90-5457-1202-c278-c37041d32e5c
 title: U.S. Social Insurance Programs
 uid: 7846c5e3-1518-5524-02f1-19e7b530b4bd

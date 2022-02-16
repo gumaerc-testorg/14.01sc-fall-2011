@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-01sc-principles-of-microeconomics-fall-2011/a025b1bec427d90bfbcd335c04a880c4_lec17.jpg
+file: /media/courses/14-01sc-principles-of-microeconomics-fall-2011/a025b1bec427d90bfbcd335c04a880c4_lec17.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Unit 5: Monopoly and Oligopoly'
+parent_type: CourseSection
 resourcetype: Image
 title: lec17.jpg
 uid: a025b1be-c427-d90b-fbcd-335c04a880c4

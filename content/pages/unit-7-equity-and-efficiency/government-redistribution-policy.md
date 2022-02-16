@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit 7: Equity and Efficiency'
+parent_type: CourseSection
 parent_uid: c94fdf90-5457-1202-c278-c37041d32e5c
 title: Government Redistribution Policy
 uid: b3df4706-2059-ac3f-7af8-8832de93e0fb

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit 5: Monopoly and Oligopoly'
+parent_type: CourseSection
 parent_uid: 51ebf007-53b9-a85a-f746-a5c03a54785d
 title: Problem Set 6
 uid: 63a175ea-2f4e-7188-fe6e-df59d477548c

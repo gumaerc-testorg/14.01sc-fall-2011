@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit 1: Supply and Demand'
+parent_type: CourseSection
 parent_uid: 10bf5cbc-f553-18ee-b099-54ff31dafc1c
 title: Applying Supply and Demand
 uid: bf5626a7-d48d-d3b2-58c6-78a13912ef84

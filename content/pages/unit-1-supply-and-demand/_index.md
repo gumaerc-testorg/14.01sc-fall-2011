@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Unit 1: Supply and Demand'
 uid: 10bf5cbc-f553-18ee-b099-54ff31dafc1c
 ---

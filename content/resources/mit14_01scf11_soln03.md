@@ -2,8 +2,12 @@
 content_type: resource
 description: 'This resource contains solutions to the problem statements related to
   utility changes, and angel curve for softwares. '
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-01sc-principles-of-microeconomics-fall-2011/6f583fd576e8b1f052b85147bc6880d2_MIT14_01SCF11_soln03.pdf
+file: /media/courses/14-01sc-principles-of-microeconomics-fall-2011/6f583fd576e8b1f052b85147bc6880d2_MIT14_01SCF11_soln03.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Problem Set 3
+parent_type: CourseSection
 resourcetype: Document
 title: MIT14_01SCF11_soln03.pdf
 uid: 6f583fd5-76e8-b1f0-52b8-5147bc6880d2

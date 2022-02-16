@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit 3: Producer Theory'
+parent_type: CourseSection
 parent_uid: 3abe52b2-06f4-e040-5bcb-7ce684de6ae6
 title: Competition II
 uid: 032b458b-15b1-6f20-7453-36ff876c9f66

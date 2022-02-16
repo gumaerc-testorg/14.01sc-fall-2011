@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit 2: Consumer Theory'
+parent_type: CourseSection
 parent_uid: 6d0eabb4-bf84-c44f-6ed5-096dcf2cf3a4
 title: Problem Set 3
 uid: 5be371bb-9c4f-36b1-f197-043fc0d6cab4

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit 4: Welfare Economics'
+parent_type: CourseSection
 parent_uid: 74a70dbf-2813-4c7f-25ca-e0a217b6ec6f
 title: Principles of Welfare Economics
 uid: 12e64d3f-0644-2707-bfcb-6442dc9daf1b

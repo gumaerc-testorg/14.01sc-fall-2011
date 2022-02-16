@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit 6: Topics in Intermediate Microeconomics'
+parent_type: CourseSection
 parent_uid: 2b057e13-f81e-86aa-d632-c23c1074b663
 title: Problem Set 8
 uid: 47ca36a0-a20e-e665-9b17-161226427ca7

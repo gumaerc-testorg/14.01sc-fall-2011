@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-01sc-principles-of-microeconomics-fall-2011/63a1aff6e1001bfd086219a6d4aee13b_MIT14_01SCF10_intro_300k-mp4.srt
+file: /media/courses/14-01sc-principles-of-microeconomics-fall-2011/63a1aff6e1001bfd086219a6d4aee13b_MIT14_01SCF10_intro_300k-mp4.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Meet the TAs
+parent_type: CourseSection
 resourcetype: Other
 title: MIT14_01SCF10_intro_300k-mp4.srt
 uid: 63a1aff6-e100-1bfd-0862-19a6d4aee13b
