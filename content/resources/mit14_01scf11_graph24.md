@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Government Redistribution Policy
 parent_type: CourseSection
+parent_uid: b3df4706-2059-ac3f-7af8-8832de93e0fb
 resourcetype: Document
 title: MIT14_01SCF11_graph24.pdf
 uid: 209d89bd-7793-854a-409f-9477cafc38c7

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Principles of Welfare Economics
 parent_type: CourseSection
+parent_uid: 12e64d3f-0644-2707-bfcb-6442dc9daf1b
 resourcetype: Document
 title: MIT14_01SCF11_graph13.pdf
 uid: 028f5e1d-a081-03d5-91c5-737bff1e55a0

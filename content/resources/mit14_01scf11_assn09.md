@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Problem Set 9
 parent_type: CourseSection
+parent_uid: c2b37480-348d-c949-387b-11748d4a62b0
 resourcetype: Document
 title: MIT14_01SCF11_assn09.pdf
 uid: 3adbb055-65cd-5035-74c5-bea4c29a3cee

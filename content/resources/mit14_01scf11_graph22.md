@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Capital Supply and Markets II
 parent_type: CourseSection
+parent_uid: 66c54ff6-d570-18af-9a41-352ad16e70f7
 resourcetype: Document
 title: MIT14_01SCF11_graph22.pdf
 uid: f391549a-173e-baa2-26c4-0b584b208c87

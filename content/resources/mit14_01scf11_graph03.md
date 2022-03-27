@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Elasticity
 parent_type: CourseSection
+parent_uid: e9dacfa6-ab6f-a244-a257-57f4d8b4b4f1
 resourcetype: Document
 title: MIT14_01SCF11_graph03.pdf
 uid: a672f1a9-ca56-a6b0-5caa-742c7915bc2d

@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Productivity and Costs
 parent_type: CourseSection
+parent_uid: 35e2a9c4-1897-5d5d-2bfc-b2dfa5fa18ac
 resourcetype: Image
 title: lec09.jpg
 uid: c70ff7c3-1f3a-a85e-e101-d596bd353a36

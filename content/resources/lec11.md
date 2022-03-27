@@ -13,6 +13,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Competition II
 parent_type: CourseSection
+parent_uid: 032b458b-15b1-6f20-7453-36ff876c9f66
 resourcetype: Image
 title: lec11.jpg
 uid: 5015a270-b1c6-157c-f6ae-2a1bbbffe87c

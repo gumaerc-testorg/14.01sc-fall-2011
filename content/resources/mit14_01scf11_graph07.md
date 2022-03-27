@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Applying Consumer Theory: Labor'
 parent_type: CourseSection
+parent_uid: 52d96c2f-56aa-990b-e3ea-69526d59464b
 resourcetype: Document
 title: MIT14_01SCF11_graph07.pdf
 uid: d272b420-c017-1f47-cd3e-dcb5b9cab225

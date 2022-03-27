@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Equity and Efficiency
 parent_type: CourseSection
+parent_uid: 1b95348a-7b79-a798-d635-6d4376464c0d
 resourcetype: Document
 title: MIT14_01SCF11_graph23.pdf
 uid: d00f6be0-00ad-e00a-451d-f1a0d5417821

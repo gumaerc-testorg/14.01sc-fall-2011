@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Unit 5: Monopoly and Oligopoly'
 parent_type: CourseSection
+parent_uid: 51ebf007-53b9-a85a-f746-a5c03a54785d
 resourcetype: Image
 title: lec14.jpg
 uid: a25e5643-ccdc-3104-f634-64768ecf4a15

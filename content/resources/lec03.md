@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Elasticity
 parent_type: CourseSection
+parent_uid: e9dacfa6-ab6f-a244-a257-57f4d8b4b4f1
 resourcetype: Image
 title: lec03.jpg
 uid: a7c93a92-917a-7f31-1c28-246dfe73a021

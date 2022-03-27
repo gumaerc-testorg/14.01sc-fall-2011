@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Deriving Demand Curves
 parent_type: CourseSection
+parent_uid: e0983a2e-16f7-37a8-ad57-4f6bb67502e5
 resourcetype: Document
 title: MIT14_01SCF11_rec03.pdf
 uid: 7576d513-6178-f343-1567-8983953421c9

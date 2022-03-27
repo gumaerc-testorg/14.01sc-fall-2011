@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Factor Markets
 parent_type: CourseSection
+parent_uid: 9af14389-2f78-d160-e3b7-064bcdef0053
 resourcetype: Document
 title: MIT14_01SCF11_graph18.pdf
 uid: 0e1e66ca-b31c-6155-7e4b-1e13695c6299

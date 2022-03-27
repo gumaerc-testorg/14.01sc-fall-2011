@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Monopoly I
 parent_type: CourseSection
+parent_uid: 617ef7a2-5dbc-5b46-dc2f-8d1834973f63
 resourcetype: Document
 title: MIT14_01SCF11_graph14.pdf
 uid: 550ee0bd-a818-34f6-d656-e192a2a68c5b

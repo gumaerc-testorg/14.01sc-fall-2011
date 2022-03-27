@@ -15,6 +15,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Introduction to Producer Theory
 parent_type: CourseSection
+parent_uid: c282655d-a496-1349-b75e-5b0e7692c61b
 resourcetype: Image
 title: lec08.jpg
 uid: 4e52aa37-945e-a802-185e-3233889af156

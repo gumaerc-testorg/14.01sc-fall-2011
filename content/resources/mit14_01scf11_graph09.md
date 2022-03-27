@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Productivity and Costs
 parent_type: CourseSection
+parent_uid: 35e2a9c4-1897-5d5d-2bfc-b2dfa5fa18ac
 resourcetype: Document
 title: MIT14_01SCF11_graph09.pdf
 uid: 1ef458b0-2967-425a-9241-34a2668e08c5

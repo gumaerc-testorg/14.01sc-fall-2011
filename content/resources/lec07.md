@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Applying Consumer Theory: Labor'
 parent_type: CourseSection
+parent_uid: 52d96c2f-56aa-990b-e3ea-69526d59464b
 resourcetype: Image
 title: lec07.jpg
 uid: 33f80df0-45a2-d873-690c-46d621bfe8bf

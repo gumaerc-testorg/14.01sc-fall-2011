@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Applying Supply and Demand
 parent_type: CourseSection
+parent_uid: bf5626a7-d48d-d3b2-58c6-78a13912ef84
 resourcetype: Document
 title: MIT14_01SCF11_rec01.pdf
 uid: 5c67b871-8ff5-5091-c19b-47d15136dc53

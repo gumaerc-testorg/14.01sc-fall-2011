@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Final Exam
 parent_type: CourseSection
+parent_uid: 0a131ce5-8530-cca6-ffa8-3134297349da
 resourcetype: Document
 title: MIT14_01SCF11_final_f07.pdf
 uid: 39c21ac1-c3eb-1c3d-e18b-206bab7f287c

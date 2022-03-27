@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Preferences and Utility
 parent_type: CourseSection
+parent_uid: eba60351-486e-4457-3f84-ae3b47789fde
 resourcetype: Document
 title: MIT14_01SCF11_graph04.pdf
 uid: cf538695-601b-cc70-02d5-6b83b00ff91e

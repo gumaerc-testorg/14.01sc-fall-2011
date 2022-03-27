@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Meet the TAs
 parent_type: CourseSection
+parent_uid: f0b3ed7c-dca2-a26b-75e3-53d084b146b2
 resourcetype: Document
 title: MIT14_01SCF10_intro_300k.pdf
 uid: c4d5aad5-580e-c3e9-1b4a-cf2973a1b833

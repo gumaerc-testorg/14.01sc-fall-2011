@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Problem Set 3
 parent_type: CourseSection
+parent_uid: 5be371bb-9c4f-36b1-f197-043fc0d6cab4
 resourcetype: Document
 title: MIT14_01SCF11_soln03.pdf
 uid: 6f583fd5-76e8-b1f0-52b8-5147bc6880d2

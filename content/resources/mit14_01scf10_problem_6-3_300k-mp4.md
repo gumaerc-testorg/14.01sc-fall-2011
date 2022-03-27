@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Problem Set 6
 parent_type: CourseSection
+parent_uid: 63a175ea-2f4e-7188-fe6e-df59d477548c
 resourcetype: Other
 title: MIT14_01SCF10_problem_6-3_300k-mp4.srt
 uid: 7b8fc810-7265-59db-d0bc-8c744aed7212

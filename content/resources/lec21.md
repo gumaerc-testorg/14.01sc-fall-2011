@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Unit 6: Topics in Intermediate Microeconomics'
 parent_type: CourseSection
+parent_uid: 2b057e13-f81e-86aa-d632-c23c1074b663
 resourcetype: Image
 title: lec21.jpg
 uid: c3f9b54a-c92e-adab-3e0f-2033e6361b4c

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Competition III
 parent_type: CourseSection
+parent_uid: 67a95d63-65f3-7075-74af-48aaa0010a46
 resourcetype: Document
 title: MIT14_01SCF11_graph12.pdf
 uid: 45d2bb15-7412-c5d6-dd85-5b9e7f788ef0

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: International Trade
 parent_type: CourseSection
+parent_uid: 7c6e1dca-9e9d-7e00-1941-647141088a9a
 resourcetype: Document
 title: MIT14_01SCF11_graph19.pdf
 uid: 140751ff-9fe6-eb29-76df-6d6c5942fa7d

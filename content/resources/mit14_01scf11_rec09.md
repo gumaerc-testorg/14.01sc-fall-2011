@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Oligopoly II
 parent_type: CourseSection
+parent_uid: 2954fa84-88a1-a8cb-0a6a-bcfda77e25b9
 resourcetype: Document
 title: MIT14_01SCF11_rec09.pdf
 uid: dffbb225-142d-51c3-adcd-71ef6bac0be5

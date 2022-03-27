@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Budget Constraints
 parent_type: CourseSection
+parent_uid: 0c0a7957-a70d-ea1c-20bc-11996dd1090c
 resourcetype: Document
 title: MIT14_01SCF11_graph05.pdf
 uid: c636ae76-a2d3-5d9f-05e3-345286cce3b0

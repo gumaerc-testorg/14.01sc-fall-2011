@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Introduction to Producer Theory
 parent_type: CourseSection
+parent_uid: c282655d-a496-1349-b75e-5b0e7692c61b
 resourcetype: Document
 title: MIT14_01SCF11_graph08.pdf
 uid: 9c9d5892-99d8-607a-b57b-829d8117e655

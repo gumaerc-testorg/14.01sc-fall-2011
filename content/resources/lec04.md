@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Preferences and Utility
 parent_type: CourseSection
+parent_uid: eba60351-486e-4457-3f84-ae3b47789fde
 resourcetype: Image
 title: lec04.jpg
 uid: 6f48d646-238f-270e-2406-2afdc13b7bfd
