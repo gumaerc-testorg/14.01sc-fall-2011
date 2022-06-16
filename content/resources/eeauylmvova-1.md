@@ -1,11 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/14-01sc-principles-of-microeconomics-fall-2011/a3680aab9d8586c2dfdb6d4c27144269_eeauylMvOvA.pdf
+file: /courses/14-01sc-principles-of-microeconomics-fall-2011/a3680aab9d8586c2dfdb6d4c27144269_eeauylMvOvA.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: a3680aab-9d85-86c2-dfdb-6d4c27144269
+video_metadata:
+  youtube_id: null
 ---

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides a lesson on the role of social insurance.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit 7: Equity and Efficiency'
@@ -7,9 +8,11 @@ parent_type: CourseSection
 parent_uid: c94fdf90-5457-1202-c278-c37041d32e5c
 title: U.S. Social Insurance Programs
 uid: 7846c5e3-1518-5524-02f1-19e7b530b4bd
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-7-equity-and-efficiency/problem-set-9) | [Next]({{< baseurl >}}/pages/unit-7-equity-and-efficiency/healthcare-economics) »
+« {{% resource_link c2b37480-348d-c949-387b-11748d4a62b0 "Previous" %}} | {{% resource_link 41da8f54-7f2a-d774-baa0-e7c50d7cf9e6 "Next" %}} »
 
 Session Overview
 ----------------
@@ -17,7 +20,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![lec25.jpg]({{< resource_file bfcc3e0a-1b69-5138-82b6-23f4fcc0a8c7 >}})
+{{< resource bfcc3e0a-1b69-5138-82b6-23f4fcc0a8c7 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -42,7 +45,7 @@ Session Activities
 
 Before watching the lecture video, read the course textbook for an introduction to the material covered in this session:
 
-*   [\[R&T\]]({{< baseurl >}}/pages/syllabus#_R_T_) Chapter 15, "Public Finance and Public Choice."
+*   {{% resource_link "8abb293b-49d8-047a-3f36-74bfa02e78f7" "\[R&T\]" "#_R_T_" %}} Chapter 15, "Public Finance and Public Choice."
 
 ### Lecture Videos
 
@@ -87,7 +90,7 @@ NOTES
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[_14.41 Public Finance and Public Policy, Fall 2010_](/courses/14-41-public-finance-and-public-policy-fall-2010/).
+[_14.41 Public Finance and Public Policy, Fall 2010_](/courses/14-41-public-finance-and-public-policy-fall-2010).
 {{< tdclose >}}
 {{< tdopen >}}
 MIT OpenCourseWare
@@ -100,4 +103,4 @@ An in-depth course on the government’s role in the economy.
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/unit-7-equity-and-efficiency/problem-set-9) | [Next]({{< baseurl >}}/pages/unit-7-equity-and-efficiency/healthcare-economics) »
+« {{% resource_link c2b37480-348d-c949-387b-11748d4a62b0 "Previous" %}} | {{% resource_link 41da8f54-7f2a-d774-baa0-e7c50d7cf9e6 "Next" %}} »

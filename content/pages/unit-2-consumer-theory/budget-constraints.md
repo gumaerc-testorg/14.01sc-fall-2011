@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides a lesson on budget constraints.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit 2: Consumer Theory'
@@ -7,9 +8,11 @@ parent_type: CourseSection
 parent_uid: 6d0eabb4-bf84-c44f-6ed5-096dcf2cf3a4
 title: Budget Constraints
 uid: 0c0a7957-a70d-ea1c-20bc-11996dd1090c
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-2-consumer-theory/preferences-and-utility) | [Next]({{< baseurl >}}/pages/unit-2-consumer-theory/problem-set-2) »
+« {{% resource_link eba60351-486e-4457-3f84-ae3b47789fde "Previous" %}} | {{% resource_link de42bac0-72e1-09a5-022b-9104454d56da "Next" %}} »
 
 Session Overview
 ----------------
@@ -17,7 +20,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![lec05.jpg]({{< resource_file 4cb70013-c1f3-6dd4-5e32-0bd8c7e4b9dc >}})
+{{< resource 4cb70013-c1f3-6dd4-5e32-0bd8c7e4b9dc >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -42,8 +45,8 @@ Session Activities
 
 Before watching the lecture video, read the course textbook for an introduction to the material covered in this session:
 
-*   [\[R&T\]]({{< baseurl >}}/pages/syllabus#_R_T_) Chapter 7, "The Analysis of Consumer Choice." Sections 7.3.
-*   \[[Perloff]({{< baseurl >}}/pages/syllabus#_Perloff_)\] Chapter 4, "Consumer Choice." (optional)
+*   {{% resource_link "8abb293b-49d8-047a-3f36-74bfa02e78f7" "\[R&T\]" "#_R_T_" %}} Chapter 7, "The Analysis of Consumer Choice." Sections 7.3.
+*   \[{{% resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Perloff" "#_Perloff_" %}}\] Chapter 4, "Consumer Choice." (optional)
 
 ### Lecture Videos
 
@@ -51,7 +54,7 @@ Before watching the lecture video, read the course textbook for an introduction 
 
 ### Resources
 
-*   [Graphs and Figures (PDF)]({{< baseurl >}}/resources/mit14_01scf11_graph05)
+*   {{% resource_link c636ae76-a2d3-5d9f-05e3-345286cce3b0 "Graphs and Figures (PDF)" %}}
 
 Check Yourself
 --------------
@@ -82,4 +85,4 @@ See the \[Perloff\] chapter for the topics covered, as well as quizzes, applicat
 
 *   [Chapter 4](http://faculty.bcitbusiness.ca/KevinW/6500/Perloff/04M_Perloff_8008884_02_Micro_C04.pdf)
 
-« [Previous]({{< baseurl >}}/pages/unit-2-consumer-theory/preferences-and-utility) | [Next]({{< baseurl >}}/pages/unit-2-consumer-theory/problem-set-2) »
+« {{% resource_link eba60351-486e-4457-3f84-ae3b47789fde "Previous" %}} | {{% resource_link de42bac0-72e1-09a5-022b-9104454d56da "Next" %}} »
