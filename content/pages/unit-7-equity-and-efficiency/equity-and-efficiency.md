@@ -1,12 +1,18 @@
 ---
 content_type: page
+description: This section provides a lesson on equity and efficiency.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit 7: Equity and Efficiency'
+parent_type: CourseSection
 parent_uid: c94fdf90-5457-1202-c278-c37041d32e5c
 title: Equity and Efficiency
 uid: 1b95348a-7b79-a798-d635-6d4376464c0d
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-7-equity-and-efficiency) | [Next]({{< baseurl >}}/pages/unit-7-equity-and-efficiency/government-redistribution-policy) »
+« {{% resource_link c94fdf90-5457-1202-c278-c37041d32e5c "Previous" %}} | {{% resource_link b3df4706-2059-ac3f-7af8-8832de93e0fb "Next" %}} »
 
 Session Overview
 ----------------
@@ -14,7 +20,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![lec23.jpg]({{< resource_file aa60c06e-484e-aa47-2672-abfc445b1d6c >}})
+{{< resource aa60c06e-484e-aa47-2672-abfc445b1d6c >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -39,8 +45,8 @@ Session Activities
 
 Before watching the Lecture Video, read the course textbook for an introduction to the material covered in this session:
 
-*   [\[R&T\]]({{< baseurl >}}/pages/syllabus#_R_T_) Chapter 19, "Inequality, Poverty, and Discrimination." Sections 19.1-2.
-*   \[[Perloff]({{< baseurl >}}/pages/syllabus#_Perloff_)\] Chapter 10, "General Equilibrium and Economic Welfare." (optional)
+*   {{% resource_link "8abb293b-49d8-047a-3f36-74bfa02e78f7" "\[R&T\]" "#_R_T_" %}} Chapter 19, "Inequality, Poverty, and Discrimination." Sections 19.1-2.
+*   \[{{% resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Perloff" "#_Perloff_" %}}\] Chapter 10, "General Equilibrium and Economic Welfare." (optional)
 
 ### Lecture Videos
 
@@ -48,7 +54,7 @@ Before watching the Lecture Video, read the course textbook for an introduction 
 
 ### Resources
 
-*   [Graphs and Figures (PDF)]({{< baseurl >}}/resources/mit14_01scf11_graph23)
+*   {{% resource_link d00f6be0-00ad-e00a-451d-f1a0d5417821 "Graphs and Figures (PDF)" %}}
 
 Check Yourself
 --------------
@@ -73,4 +79,4 @@ See the course website for [Econ 302](http://econ302.wikidot.com/general-equilib
 
 *   [Chapter 10](http://econ302.wikidot.com/general-equilibrium)
 
-« [Previous]({{< baseurl >}}/pages/unit-7-equity-and-efficiency) | [Next]({{< baseurl >}}/pages/unit-7-equity-and-efficiency/government-redistribution-policy) »
+« {{% resource_link c94fdf90-5457-1202-c278-c37041d32e5c "Previous" %}} | {{% resource_link b3df4706-2059-ac3f-7af8-8832de93e0fb "Next" %}} »

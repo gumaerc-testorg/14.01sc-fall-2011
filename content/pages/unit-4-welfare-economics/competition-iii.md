@@ -1,12 +1,18 @@
 ---
 content_type: page
+description: This section provides a lesson on competition.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit 4: Welfare Economics'
+parent_type: CourseSection
 parent_uid: 74a70dbf-2813-4c7f-25ca-e0a217b6ec6f
 title: Competition III
 uid: 67a95d63-65f3-7075-74af-48aaa0010a46
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-4-welfare-economics) | [Next]({{< baseurl >}}/pages/unit-4-welfare-economics/problem-set-5) »
+« {{% resource_link 74a70dbf-2813-4c7f-25ca-e0a217b6ec6f "Previous" %}} | {{% resource_link 8853fb2e-2f47-a6f1-6c5b-5b422b69abeb "Next" %}} »
 
 Session Overview
 ----------------
@@ -14,7 +20,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![lec12.jpg]({{< resource_file ecc124ff-88cf-c639-de66-0c85f6f1e79a >}})
+{{< resource ecc124ff-88cf-c639-de66-0c85f6f1e79a >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -39,7 +45,7 @@ Session Activities
 
 Before watching the lecture video, read the course textbook for an introduction to the material covered in this session:
 
-*   \[[Perloff]({{< baseurl >}}/pages/syllabus#_Perloff_)\] Chapter 8, "Competitive Firms and Markets." (optional)
+*   \[{{% resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Perloff" "#_Perloff_" %}}\] Chapter 8, "Competitive Firms and Markets." (optional)
 
 ### Lecture Videos
 
@@ -47,7 +53,7 @@ Before watching the lecture video, read the course textbook for an introduction 
 
 ### Resources
 
-*   [Graphs and Figures (PDF)]({{< baseurl >}}/resources/mit14_01scf11_graph12)
+*   {{% resource_link 45d2bb15-7412-c5d6-dd85-5b9e7f788ef0 "Graphs and Figures (PDF)" %}}
 
 Check Yourself
 --------------
@@ -65,4 +71,4 @@ This concept quiz covers key vocabulary terms and also tests your intuitive unde
 ##### Question 4
  {{< quiz_multiple_choice questionId="MCQ4" >}} Assume a consumer bought two concert tickets, and valued the first ticket at $50 and the second ticket at $30. The price of both tickets was $30. What is the consumer surplus for this consumer in the transaction? {{< quiz_choices >}} {{< quiz_choice isCorrect="true" >}}$20.{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}$30.{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}$60.{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}$80.{{< /quiz_choice >}} {{< /quiz_choices >}} {{< quiz_solution >}}The consumer gained no consumer surplus on the last ticket, since the price was equal to his valuation of the ticket. However, the surplus on the first ticket purchased was $20.{{< /quiz_solution >}} {{< /quiz_multiple_choice >}}
 
-« [Previous]({{< baseurl >}}/pages/unit-4-welfare-economics) | [Next]({{< baseurl >}}/pages/unit-4-welfare-economics/problem-set-5) »
+« {{% resource_link 74a70dbf-2813-4c7f-25ca-e0a217b6ec6f "Previous" %}} | {{% resource_link 8853fb2e-2f47-a6f1-6c5b-5b422b69abeb "Next" %}} »

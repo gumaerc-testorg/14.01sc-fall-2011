@@ -1,12 +1,18 @@
 ---
 content_type: page
+description: This section provides a lesson on elasticity.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit 1: Supply and Demand'
+parent_type: CourseSection
 parent_uid: 10bf5cbc-f553-18ee-b099-54ff31dafc1c
 title: Elasticity
 uid: e9dacfa6-ab6f-a244-a257-57f4d8b4b4f1
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-1-supply-and-demand/applying-supply-and-demand) | [Next]({{< baseurl >}}/pages/unit-1-supply-and-demand/problem-set-1) »
+« {{% resource_link bf5626a7-d48d-d3b2-58c6-78a13912ef84 "Previous" %}} | {{% resource_link 4cecca62-a7b9-486b-1e1d-45d54b8e504b "Next" %}} »
 
 Session Overview
 ----------------
@@ -14,7 +20,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Store aisle for toilet paper.]({{< resource_file a7c93a92-917a-7f31-1c28-246dfe73a021 >}})
+{{< resource a7c93a92-917a-7f31-1c28-246dfe73a021 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -39,8 +45,8 @@ Session Activities
 
 Before watching the lecture video, read the course textbook for an introduction to the material covered in this session:
 
-*   [\[R&T\]]({{< baseurl >}}/pages/syllabus#_R_T_) Chapter 5, "Elasticity: A Measure of Response."
-*   \[[Perloff]({{< baseurl >}}/pages/syllabus#_Perloff_)\] Chapter 3, "Applying the Supply-and-Demand Model." (optional)
+*   {{% resource_link "8abb293b-49d8-047a-3f36-74bfa02e78f7" "\[R&T\]" "#_R_T_" %}} Chapter 5, "Elasticity: A Measure of Response."
+*   \[{{% resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Perloff" "#_Perloff_" %}}\] Chapter 3, "Applying the Supply-and-Demand Model." (optional)
 
 ### Lecture Videos
 
@@ -48,7 +54,7 @@ Before watching the lecture video, read the course textbook for an introduction 
 
 ### Resources
 
-*   [Graphs and Figures (PDF)]({{< baseurl >}}/resources/mit14_01scf11_graph03)
+*   {{% resource_link a672f1a9-ca56-a6b0-5caa-742c7915bc2d "Graphs and Figures (PDF)" %}}
 
 Further Study
 -------------
@@ -72,4 +78,4 @@ See the \[Perloff\] chapter for the topics covered, as well as quizzes, applicat
 
 *   [Chapter 3](http://geneseo.edu/~stone/perloff3.pdf)
 
-« [Previous]({{< baseurl >}}/pages/unit-1-supply-and-demand/applying-supply-and-demand) | [Next]({{< baseurl >}}/pages/unit-1-supply-and-demand/problem-set-1) »
+« {{% resource_link bf5626a7-d48d-d3b2-58c6-78a13912ef84 "Previous" %}} | {{% resource_link 4cecca62-a7b9-486b-1e1d-45d54b8e504b "Next" %}} »

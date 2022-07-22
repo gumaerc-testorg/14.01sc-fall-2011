@@ -1,12 +1,18 @@
 ---
 content_type: page
+description: This section provides a lesson on government redistribution policy.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit 7: Equity and Efficiency'
+parent_type: CourseSection
 parent_uid: c94fdf90-5457-1202-c278-c37041d32e5c
 title: Government Redistribution Policy
 uid: b3df4706-2059-ac3f-7af8-8832de93e0fb
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-7-equity-and-efficiency/equity-and-efficiency) | [Next]({{< baseurl >}}/pages/unit-7-equity-and-efficiency/problem-set-9) »
+« {{% resource_link 1b95348a-7b79-a798-d635-6d4376464c0d "Previous" %}} | {{% resource_link c2b37480-348d-c949-387b-11748d4a62b0 "Next" %}} »
 
 Session Overview
 ----------------
@@ -14,7 +20,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![lec24.jpg]({{< resource_file b2a3f85a-070f-ccc8-3d5d-c972ba4a110f >}})
+{{< resource b2a3f85a-070f-ccc8-3d5d-c972ba4a110f >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -39,7 +45,7 @@ Session Activities
 
 Before watching the lecture video, read the course textbook for an introduction to the material covered in this session:
 
-*   [\[R&T\]]({{< baseurl >}}/pages/syllabus#_R_T_) Chapter 15, "Public Finance and Public Choice."
+*   {{% resource_link "8abb293b-49d8-047a-3f36-74bfa02e78f7" "\[R&T\]" "#_R_T_" %}} Chapter 15, "Public Finance and Public Choice."
 
 ### Lecture Videos
 
@@ -47,7 +53,7 @@ Before watching the lecture video, read the course textbook for an introduction 
 
 ### Resources
 
-*   [Graphs and Figures (PDF)]({{< baseurl >}}/resources/mit14_01scf11_graph24)
+*   {{% resource_link 209d89bd-7793-854a-409f-9477cafc38c7 "Graphs and Figures (PDF)" %}}
 
 Check Yourself
 --------------
@@ -86,7 +92,7 @@ NOTES
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[_14.41 Public Finance and Public Policy, Fall 2010_](/courses/14-41-public-finance-and-public-policy-fall-2010/)_._
+[_14.41 Public Finance and Public Policy, Fall 2010_](/courses/14-41-public-finance-and-public-policy-fall-2010)_._
 {{< tdclose >}}
 {{< tdopen >}}
 MIT OpenCourseWare
@@ -99,4 +105,4 @@ An in-depth course on the government’s role in the economy.
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/unit-7-equity-and-efficiency/equity-and-efficiency) | [Next]({{< baseurl >}}/pages/unit-7-equity-and-efficiency/problem-set-9) »
+« {{% resource_link 1b95348a-7b79-a798-d635-6d4376464c0d "Previous" %}} | {{% resource_link c2b37480-348d-c949-387b-11748d4a62b0 "Next" %}} »

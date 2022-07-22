@@ -1,12 +1,18 @@
 ---
 content_type: page
+description: This section provides a lesson on productivity and costs.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit 3: Producer Theory'
+parent_type: CourseSection
 parent_uid: 3abe52b2-06f4-e040-5bcb-7ce684de6ae6
 title: Productivity and Costs
 uid: 35e2a9c4-1897-5d5d-2bfc-b2dfa5fa18ac
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-3-producer-theory/introduction-to-producer-theory) | [Next]({{< baseurl >}}/pages/unit-3-producer-theory/competition-i) »
+« {{% resource_link c282655d-a496-1349-b75e-5b0e7692c61b "Previous" %}} | {{% resource_link c51a6858-5b2e-cbf5-8359-4f4bc69947e1 "Next" %}} »
 
 Session Overview
 ----------------
@@ -14,7 +20,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![lec09.jpg]({{< resource_file c70ff7c3-1f3a-a85e-e101-d596bd353a36 >}})
+{{< resource c70ff7c3-1f3a-a85e-e101-d596bd353a36 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -39,8 +45,8 @@ Session Activities
 
 Before watching the lecture video, read the course textbook for an introduction to the material covered in this session:
 
-*   [\[R&T\]]({{< baseurl >}}/pages/syllabus#_R_T_) Chapter 8, "Production and Cost."
-*   \[[Perloff]({{< baseurl >}}/pages/syllabus#_Perloff_)\] Chapter 7, "Costs." (optional)
+*   {{% resource_link "8abb293b-49d8-047a-3f36-74bfa02e78f7" "\[R&T\]" "#_R_T_" %}} Chapter 8, "Production and Cost."
+*   \[{{% resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Perloff" "#_Perloff_" %}}\] Chapter 7, "Costs." (optional)
 
 ### Lecture Videos
 
@@ -48,7 +54,7 @@ Before watching the lecture video, read the course textbook for an introduction 
 
 ### Resources
 
-*   [Graphs and Figures (PDF)]({{< baseurl >}}/resources/mit14_01scf11_graph09)
+*   {{% resource_link 1ef458b0-2967-425a-9241-34a2668e08c5 "Graphs and Figures (PDF)" %}}
 
 Check Yourself
 --------------
@@ -68,4 +74,4 @@ This concept quiz covers key vocabulary terms and also tests your intuitive unde
 ##### Question 5
  {{< quiz_multiple_choice questionId="MCQ5" >}} What is an example of sunk costs for someone opening a law practice? {{< quiz_choices >}} {{< quiz_choice isCorrect="false" >}}Rent on office space.{{< /quiz_choice >}} {{< quiz_choice isCorrect="true" >}}The cost of a law school education.{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}The cost of office supplies.{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}Wages for paralegals.{{< /quiz_choice >}} {{< /quiz_choices >}} {{< quiz_solution >}}The cost of a law school education is a sunk cost because irrespective of future decisions, these costs can never be recouped.{{< /quiz_solution >}} {{< /quiz_multiple_choice >}}
 
-« [Previous]({{< baseurl >}}/pages/unit-3-producer-theory/introduction-to-producer-theory) | [Next]({{< baseurl >}}/pages/unit-3-producer-theory/competition-i) »
+« {{% resource_link c282655d-a496-1349-b75e-5b0e7692c61b "Previous" %}} | {{% resource_link c51a6858-5b2e-cbf5-8359-4f4bc69947e1 "Next" %}} »

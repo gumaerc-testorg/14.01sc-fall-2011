@@ -1,12 +1,18 @@
 ---
 content_type: page
+description: This section provides a lesson on different forms of oligopoly.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit 5: Monopoly and Oligopoly'
+parent_type: CourseSection
 parent_uid: 51ebf007-53b9-a85a-f746-a5c03a54785d
 title: Oligopoly II
 uid: 2954fa84-88a1-a8cb-0a6a-bcfda77e25b9
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-5-monopoly-and-oligopoly/problem-set-7) | [Next]({{< baseurl >}}/pages/midterm-exam-2) »
+« {{% resource_link 6646396a-08af-4e2f-2e6c-5cd67f11bcf9 "Previous" %}} | {{% resource_link 68f8f062-a1d7-c90a-66a7-04a60dcfb901 "Next" %}} »
 
 Session Overview
 ----------------
@@ -14,7 +20,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![lec17.jpg]({{< resource_file a025b1be-c427-d90b-fbcd-335c04a880c4 >}})
+{{< resource a025b1be-c427-d90b-fbcd-335c04a880c4 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -39,12 +45,12 @@ Session Activities
 
 Read the recitation notes, which cover new content that adds to and supplements the material covered in lecture.
 
-*   [Recitation: Government Policy (PDF)]({{< baseurl >}}/resources/mit14_01scf11_rec09)
+*   {{% resource_link dffbb225-142d-51c3-adcd-71ef6bac0be5 "Recitation: Government Policy (PDF)" %}}
 
 Before watching the lecture video, read the course textbook for an introduction to the material covered in this session:
 
-*   [\[R&T\]]({{< baseurl >}}/pages/syllabus#_R_T_) Chapter 11, "The World of Imperfect Competition."
-*   \[[Perloff]({{< baseurl >}}/pages/syllabus#_Perloff_)\] Chapter 12, "Pricing and Advertising." (optional)
+*   {{% resource_link "8abb293b-49d8-047a-3f36-74bfa02e78f7" "\[R&T\]" "#_R_T_" %}} Chapter 11, "The World of Imperfect Competition."
+*   \[{{% resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Perloff" "#_Perloff_" %}}\] Chapter 12, "Pricing and Advertising." (optional)
 
 ### Lecture Videos
 
@@ -52,7 +58,7 @@ Before watching the lecture video, read the course textbook for an introduction 
 
 ### Resources
 
-*   [Graphs and Figures (PDF)]({{< baseurl >}}/resources/mit14_01scf11_graph17)
+*   {{% resource_link 2db3ce21-626a-7b59-f5b7-a2d70535a8fc "Graphs and Figures (PDF)" %}}
 
 Check Yourself
 --------------
@@ -70,4 +76,4 @@ This concept quiz covers key vocabulary terms and also tests your intuitive unde
 ##### Question 4
  {{< quiz_multiple_choice questionId="MCQ4" >}} What is a strategy firms can use to avoid Bertrand competition? {{< quiz_choices >}} {{< quiz_choice isCorrect="true" >}}Differentiate their product.{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}Lower the price of their product.{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}Produce more of their product.{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}Raise the price of their product.{{< /quiz_choice >}} {{< /quiz_choices >}} {{< quiz_solution >}}The correct answer is that firms can differentiate their product to avoid Bertrand competition, thus enabling them to set a price that is above marginal cost. Shifting the price does not alter the competitive structure: the firm will still ultimately be required to set the price at marginal cost to remain in the market. In Bertrand competition, it is assumed that firms produce whatever quantity of the good is demanded by consumers, so producing more of the product is not an available option.{{< /quiz_solution >}} {{< /quiz_multiple_choice >}}
 
-« [Previous]({{< baseurl >}}/pages/unit-5-monopoly-and-oligopoly/problem-set-7) | [Next]({{< baseurl >}}/pages/midterm-exam-2) »
+« {{% resource_link 6646396a-08af-4e2f-2e6c-5cd67f11bcf9 "Previous" %}} | {{% resource_link 68f8f062-a1d7-c90a-66a7-04a60dcfb901 "Next" %}} »

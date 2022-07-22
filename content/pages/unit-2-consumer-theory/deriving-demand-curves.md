@@ -1,12 +1,18 @@
 ---
 content_type: page
+description: This section provides a lesson on deriving demand curves.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit 2: Consumer Theory'
+parent_type: CourseSection
 parent_uid: 6d0eabb4-bf84-c44f-6ed5-096dcf2cf3a4
 title: Deriving Demand Curves
 uid: e0983a2e-16f7-37a8-ad57-4f6bb67502e5
+video_metadata:
+  youtube_id: null
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-2-consumer-theory/problem-set-2) | [Next]({{< baseurl >}}/pages/unit-2-consumer-theory/applying-consumer-theory-labor) »
+« {{% resource_link de42bac0-72e1-09a5-022b-9104454d56da "Previous" %}} | {{% resource_link 52d96c2f-56aa-990b-e3ea-69526d59464b "Next" %}} »
 
 Session Overview
 ----------------
@@ -14,7 +20,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![lec06.jpg]({{< resource_file fd606424-586b-15ba-0c8b-ab02c07e99b7 >}})
+{{< resource fd606424-586b-15ba-0c8b-ab02c07e99b7 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -39,12 +45,12 @@ Session Activities
 
 Read the recitation notes, which cover new content that adds to and supplements the material covered in lecture.
 
-*   [Recitation: Substitution (PDF)]({{< baseurl >}}/resources/mit14_01scf11_rec03)
+*   {{% resource_link 7576d513-6178-f343-1567-8983953421c9 "Recitation: Substitution (PDF)" %}}
 
 Before watching the lecture video, read the course textbook for an introduction to the material covered in this session:
 
-*   [\[R&T\]]({{< baseurl >}}/pages/syllabus#_R_T_) Chapter 7, "The Analysis of Consumer Choice." Section 7.2.3.
-*   \[[Perloff]({{< baseurl >}}/pages/syllabus#_Perloff_)\] Chapter 5, "Applying Consumer Theory." (optional)
+*   {{% resource_link "8abb293b-49d8-047a-3f36-74bfa02e78f7" "\[R&T\]" "#_R_T_" %}} Chapter 7, "The Analysis of Consumer Choice." Section 7.2.3.
+*   \[{{% resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Perloff" "#_Perloff_" %}}\] Chapter 5, "Applying Consumer Theory." (optional)
 
 ### Lecture Videos
 
@@ -52,7 +58,7 @@ Before watching the lecture video, read the course textbook for an introduction 
 
 ### Resources
 
-*   [Graphs and Figures (PDF)]({{< baseurl >}}/resources/mit14_01scf11_graph06)
+*   {{% resource_link f90025ff-5e76-4c15-9e7b-a8698ff9fac5 "Graphs and Figures (PDF)" %}}
 
 Check Yourself
 --------------
@@ -114,4 +120,4 @@ Alternative notes with an advanced theoretical approach.
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/unit-2-consumer-theory/problem-set-2) | [Next]({{< baseurl >}}/pages/unit-2-consumer-theory/applying-consumer-theory-labor) »
+« {{% resource_link de42bac0-72e1-09a5-022b-9104454d56da "Previous" %}} | {{% resource_link 52d96c2f-56aa-990b-e3ea-69526d59464b "Next" %}} »
