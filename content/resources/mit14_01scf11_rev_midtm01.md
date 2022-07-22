@@ -4,6 +4,7 @@ description: 'This resource contains information related to unit 2: consumer the
 file: /courses/14-01sc-principles-of-microeconomics-fall-2011/20c1312e8e56a899ed91790b22f39938_MIT14_01SCF11_rev_midtm01.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Midterm Exam 1
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains information related to unit 2: consumer theory.
-

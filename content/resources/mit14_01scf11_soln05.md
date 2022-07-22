@@ -5,6 +5,7 @@ description: This resource contains solutions to the problem statements related 
 file: /courses/14-01sc-principles-of-microeconomics-fall-2011/1aeaeb3993e8b8c60bb91f6aa0cce667_MIT14_01SCF11_soln05.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Problem Set 5
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains solutions to the problem statements related to equilibrium price, capital and profits.
-

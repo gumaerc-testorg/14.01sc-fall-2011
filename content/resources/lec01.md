@@ -11,6 +11,7 @@ image_metadata:
   credit: Image courtesy of ninanord on Flickr.
   image-alt: A box of chocolates.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Introduction to Microeconomics
 parent_type: CourseSection
@@ -22,4 +23,3 @@ video_metadata:
   youtube_id: null
 ---
 Economics can't help you make a selection from this box of chocolates, but can be a vital tool in other decision-making situations. Image courtesy of ninanord on Flickr.
-

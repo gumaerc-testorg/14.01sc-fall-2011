@@ -4,6 +4,7 @@ description: This resource is the recitation file for substitution.
 file: /courses/14-01sc-principles-of-microeconomics-fall-2011/7576d5136178f34315678983953421c9_MIT14_01SCF11_rec03.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Deriving Demand Curves
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource is the recitation file for substitution.
-

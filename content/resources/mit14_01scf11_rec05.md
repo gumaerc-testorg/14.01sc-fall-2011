@@ -4,6 +4,7 @@ description: This resource is a recitation file for production function and cost
 file: /courses/14-01sc-principles-of-microeconomics-fall-2011/d5e3984e1e3d5b5a67985441ce486b66_MIT14_01SCF11_rec05.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Competition I
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource is a recitation file for production function and costs.
-

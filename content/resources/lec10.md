@@ -10,6 +10,7 @@ image_metadata:
     Source: Wikipedia.'
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Competition I
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 Firms, like auto racers, operate in a competitive environment. This image is a work of the US Federal Government and in the public domain. Source: Wikipedia.
-

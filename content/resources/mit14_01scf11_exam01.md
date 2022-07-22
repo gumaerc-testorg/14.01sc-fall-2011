@@ -5,6 +5,7 @@ description: This resource contains 5 problem statements related to demand, supp
 file: /courses/14-01sc-principles-of-microeconomics-fall-2011/0454bc30df1666fe266f0a3353c0c633_MIT14_01SCF11_exam01.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Midterm Exam 1
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains 5 problem statements related to demand, supply, market demands, optimal allocations, and labor markets.
-

@@ -6,6 +6,7 @@ description: 'This resource contains solutions to the problem statements related
 file: /courses/14-01sc-principles-of-microeconomics-fall-2011/6c60e9cb452492f849f1d95210e28bf3_MIT14_01SCF11_final_soln.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Final Exam
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains solutions to the problem statements related to uncertainty, price, costs, oligopoly, labor supply, income and substitution effects, trade, and price discrimination. 
-

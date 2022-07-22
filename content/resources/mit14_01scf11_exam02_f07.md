@@ -5,6 +5,7 @@ description: This resource contains 6 problem statements related to marginal cos
 file: /courses/14-01sc-principles-of-microeconomics-fall-2011/1e7f3ad24377c2ce5b92c9017d63e2fc_MIT14_01SCF11_exam02_f07.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Midterm Exam 2
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains 6 problem statements related to marginal cost of production, annual fixed cost of production, demand for labor, and market price.
-

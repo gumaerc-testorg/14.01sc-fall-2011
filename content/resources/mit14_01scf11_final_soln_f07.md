@@ -5,6 +5,7 @@ description: 'This resource contains solutions to the problem statements related
 file: /courses/14-01sc-principles-of-microeconomics-fall-2011/627039d2f5adf84f0693ecad4fbf6541_MIT14_01SCF11_final_soln_f07.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Final Exam
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains solutions to the problem statements related to nash equilibrium, marginal cost, efficient quantity, and price regulation. 
-

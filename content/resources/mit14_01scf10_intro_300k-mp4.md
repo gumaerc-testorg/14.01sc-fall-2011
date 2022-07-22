@@ -4,6 +4,7 @@ description: ''
 file: /courses/14-01sc-principles-of-microeconomics-fall-2011/63a1aff6e1001bfd086219a6d4aee13b_MIT14_01SCF10_intro_300k-mp4.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Meet the TAs
 parent_type: CourseSection

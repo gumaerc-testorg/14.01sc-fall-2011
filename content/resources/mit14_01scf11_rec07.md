@@ -4,6 +4,7 @@ description: This resource is a recitation file for competition review.
 file: /courses/14-01sc-principles-of-microeconomics-fall-2011/036a42dbf99a143561e9b40cc2d2faf2_MIT14_01SCF11_rec07.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Principles of Welfare Economics
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource is a recitation file for competition review.
-

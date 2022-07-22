@@ -6,6 +6,7 @@ description: 'This resource contains 5 problem statements related to uncertainty
 file: /courses/14-01sc-principles-of-microeconomics-fall-2011/44154f5290ccede02ea16124f8905bea_MIT14_01SCF11_final.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Final Exam
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains 5 problem statements related to uncertainty, price, costs, oligopoly, labor supply, income and substitution effects, trade, and price discrimination. 
-

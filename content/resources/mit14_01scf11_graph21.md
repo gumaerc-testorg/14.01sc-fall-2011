@@ -4,6 +4,7 @@ description: This resource contains graphs related to capital supply and markets
 file: /courses/14-01sc-principles-of-microeconomics-fall-2011/4dc1e81d399ed8c8828708258f152a90_MIT14_01SCF11_graph21.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Capital Supply and Markets I
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains graphs related to capital supply and markets I.
-

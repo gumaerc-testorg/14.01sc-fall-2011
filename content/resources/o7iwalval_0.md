@@ -4,6 +4,7 @@ description: ''
 file: /courses/14-01sc-principles-of-microeconomics-fall-2011/cbd400614efe88d000726218eb775a72_O7IwAlval_0.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

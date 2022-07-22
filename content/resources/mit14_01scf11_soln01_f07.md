@@ -5,6 +5,7 @@ description: 'This resource contains solutions to the problem statements related
 file: /courses/14-01sc-principles-of-microeconomics-fall-2011/a8a2097abd606e23e94ef540accf2139_MIT14_01SCF11_soln01_f07.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Midterm Exam 1
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains solutions to the problem statements related to marginal rates of substitution, inverse demand curve, and risks. 
-

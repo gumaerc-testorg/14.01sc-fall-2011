@@ -12,6 +12,7 @@ image_metadata:
     Source: Library of Congress.'
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Introduction to Producer Theory
 parent_type: CourseSection
@@ -23,4 +24,3 @@ video_metadata:
   youtube_id: null
 ---
 When considering firm production decisions, we must consider the two forms of firm input – labor and capital. This image is a work of the US Federal Government and in the public domain. Source: Library of Congress.
-

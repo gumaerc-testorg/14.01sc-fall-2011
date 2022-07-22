@@ -4,6 +4,7 @@ description: This resource graphs related to competition I.
 file: /courses/14-01sc-principles-of-microeconomics-fall-2011/f9add6bcf120f0c6298dd7ae3dcb5297_MIT14_01SCF11_graph10.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Competition I
 parent_type: CourseSection
@@ -15,4 +16,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource graphs related to competition I.
-
