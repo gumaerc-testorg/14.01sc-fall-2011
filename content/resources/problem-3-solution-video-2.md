@@ -1,8 +1,14 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -14,7 +20,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: '0'
-title: ' Problem 3 Solution Video'
+title: Problem 3 Solution Video
 uid: 99ad8336-0504-ad6b-9c94-1ab9b79f40ba
 video_files:
   archive_url: http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_problem_6-3_300k.mp4
