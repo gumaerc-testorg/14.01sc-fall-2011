@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/14-01sc-principles-of-microeconomics-fall-2011/2ee60b5391b9d3ec0f7e0789d819e1c9_jDnoR7IF_eY.pdf
+file_size: 72907
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
