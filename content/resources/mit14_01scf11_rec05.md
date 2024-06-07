@@ -3,13 +3,14 @@ content_type: resource
 description: This resource is a recitation file for production function and costs.
 draft: false
 file: /courses/14-01sc-principles-of-microeconomics-fall-2011/d5e3984e1e3d5b5a67985441ce486b66_MIT14_01SCF11_rec05.pdf
+file_size: 267556
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Exam Materials
+- Recitation Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Competition I
@@ -19,6 +20,7 @@ resourcetype: Document
 title: MIT14_01SCF11_rec05.pdf
 uid: d5e3984e-1e3d-5b5a-6798-5441ce486b66
 video_files:
+  archive_url: ''
   video_captions_file: ''
   video_thumbnail_file: ''
   video_transcript_file: ''

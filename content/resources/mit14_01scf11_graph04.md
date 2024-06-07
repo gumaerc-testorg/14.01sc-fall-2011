@@ -4,6 +4,7 @@ description: This resource contains graphs and figures related to preferences an
   utility.
 draft: false
 file: /courses/14-01sc-principles-of-microeconomics-fall-2011/cf538695601bcc7002d56b83b00ff91e_MIT14_01SCF11_graph04.pdf
+file_size: 58592
 file_type: application/pdf
 image_metadata:
   caption: ''

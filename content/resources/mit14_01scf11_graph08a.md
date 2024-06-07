@@ -4,6 +4,7 @@ description: 'This resource contains graphs and figures related to applying cons
   theory: labor.'
 draft: false
 file: /courses/14-01sc-principles-of-microeconomics-fall-2011/2cd9a13ca8ccbc9c6bb19c713bf52fc1_MIT14_01SCF11_graph08a.pdf
+file_size: 56507
 file_type: application/pdf
 image_metadata:
   caption: ''

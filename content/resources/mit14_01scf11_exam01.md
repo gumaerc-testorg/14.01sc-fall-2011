@@ -4,6 +4,7 @@ description: This resource contains 5 problem statements related to demand, supp
   market demands, optimal allocations, and labor markets.
 draft: false
 file: /courses/14-01sc-principles-of-microeconomics-fall-2011/0454bc30df1666fe266f0a3353c0c633_MIT14_01SCF11_exam01.pdf
+file_size: 308015
 file_type: application/pdf
 image_metadata:
   caption: ''
