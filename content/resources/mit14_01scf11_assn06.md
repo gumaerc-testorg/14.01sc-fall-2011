@@ -4,6 +4,7 @@ description: 'This resource contains 4 problem statements related to marginal co
   curves, and equilibrium. '
 draft: false
 file: /courses/14-01sc-principles-of-microeconomics-fall-2011/bfd02c40de05ca327f4b93745ccfa049_MIT14_01SCF11_assn06.pdf
+file_size: 109532
 file_type: application/pdf
 image_metadata:
   caption: ''

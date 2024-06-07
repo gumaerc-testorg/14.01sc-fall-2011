@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains graphs related to factor markets.
 draft: false
 file: /courses/14-01sc-principles-of-microeconomics-fall-2011/0e1e66cab31c61557e4b1e13695c6299_MIT14_01SCF11_graph18.pdf
+file_size: 55338
 file_type: application/pdf
 image_metadata:
   caption: ''

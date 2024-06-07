@@ -11,11 +11,11 @@ uid: 8abb293b-49d8-047a-3f36-74bfa02e78f7
 video_metadata:
   youtube_id: null
 ---
-« [Previous](../../) | {{% resource_link f0b3ed7c-dca2-a26b-75e3-53d084b146b2 "Next" %}} »
+« [Previous](../../) | {{% resource_link "f0b3ed7c-dca2-a26b-75e3-53d084b146b2" "Next" %}} »
 
 ## About this Course
 
-_14.01 Principles of Microeconomics_ is an introductory undergraduate course that teaches the fundamentals of microeconomics. At MIT, this is the first course that undergraduates take in economics. For some, it may be the only course they take in the subject, and it provides a solid foundation for economic analysis and thinking that can last throughout their education and subsequent professional careers. For other students, it may provide a foundation for many years of study in economics, business, or related fields.
+*14.01 Principles of Microeconomics* is an introductory undergraduate course that teaches the fundamentals of microeconomics. At MIT, this is the first course that undergraduates take in economics. For some, it may be the only course they take in the subject, and it provides a solid foundation for economic analysis and thinking that can last throughout their education and subsequent professional careers. For other students, it may provide a foundation for many years of study in economics, business, or related fields.
 
 This course begins with an introduction to supply and demand and the basic forces that determine an equilibrium in a market economy. Next, it introduces a framework for learning about consumer behavior and analyzing consumer decisions. We then turn our attention to firms and their decisions about optimal production, and the impact of different market structures on firms' behavior. The final section of the course provides an introduction to some of the more advanced topics that can be analyzed using microeconomic theory. These include international trade, the impact of uncertainty on consumer behavior, the operation of capital markets, equity vs. efficiency trade-offs in economic policy and social insurance.
 
@@ -23,9 +23,9 @@ By the end of the course, you will be able to understand introductory microecono
 
 ## Prerequisites and Preparation
 
-This course will include some basic uni-variate calculus material, as taught in the MIT course _18.01 Single Variable Calculus_ or in a comparable high-school calculus course. There are no other prerequisites.
+This course will include some basic uni-variate calculus material, as taught in the MIT course *18.01 Single Variable Calculus* or in a comparable high-school calculus course. There are no other prerequisites.
 
-Visit [_18.01SC Single Variable Calculus_](/courses/18-01sc-single-variable-calculus-fall-2010) to learn or review this material.
+Visit [*18.01SC Single Variable Calculus*](/courses/18-01sc-single-variable-calculus-fall-2010) to learn or review this material.
 
 ## Course Goals
 
@@ -68,11 +68,11 @@ TEXTBOOK
 {{< thclose >}}{{< thopen >}}
 DESCRIPTION
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-{{< anchor "_Perloff_" >}}{{< /anchor >}}\[Perloff\] = Perloff, Jeffrey M. _Microeconomics_. 5th ed. Addison Wesley, 2008. ISBN: 9780321558497.
+{{< anchor "_Perloff_" >}}{{< /anchor >}}\[Perloff\] = Perloff, Jeffrey M. *Microeconomics*. 5th ed. Addison Wesley, 2008. ISBN: 9780321558497.
 {{< tdclose >}}{{< tdopen >}}
-This is the official textbook used by students enrolled in the class at MIT. While OCW cannot provide online access to this book, we provide "For Further Study" links to supplemental materials.
+This is the official textbook used by students enrolled in the class at MIT. Unfortunately due to copyright restrictions, OCW cannot provide online access to this book. 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-{{< anchor "_R_T_" >}}{{< /anchor >}}\[R&T\] = Rittenberg, Libby, and Timothy Tregarthen. [_Principles of Microeconomics_ (PDF - 15.1MB)](/ans7870/14/14.01SC/MIT14_01SCF11_rttext.pdf). 2009. (Courtesy of Libby Rittenberg, Timothy Tregarthen, and the Saylor Foundation.)
+{{< anchor "_R_T_" >}}{{< /anchor >}}\[R&T\] = Rittenberg, Libby, and Timothy Tregarthen. [*Principles of Microeconomics* (PDF - 15.1MB)](/ans7870/14/14.01SC/MIT14_01SCF11_rttext.pdf). 2009. (Courtesy of Libby Rittenberg, Timothy Tregarthen, and the Saylor Foundation.)
 {{< tdclose >}}{{< tdopen >}}
 This Creative Commons-licensed text is a free online alternative to Perloff text used in the class at MIT.
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
@@ -91,6 +91,6 @@ There will also be a three hour final, which will be cumulative and cover all of
 
 ## Acknowledgements
 
-This course includes substantial contributions from several talented {{% resource_link f0b3ed7c-dca2-a26b-75e3-53d084b146b2 "14.01SC Teaching Assistants" %}}.
+This course includes substantial contributions from several talented {{% resource_link "f0b3ed7c-dca2-a26b-75e3-53d084b146b2" "14.01SC Teaching Assistants" %}}.
 
-« [Previous](../../) | {{% resource_link f0b3ed7c-dca2-a26b-75e3-53d084b146b2 "Next" %}} »
+« [Previous](../../) | {{% resource_link "f0b3ed7c-dca2-a26b-75e3-53d084b146b2" "Next" %}} »

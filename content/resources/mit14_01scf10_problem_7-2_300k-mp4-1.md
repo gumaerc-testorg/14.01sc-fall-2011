@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/14-01sc-principles-of-microeconomics-fall-2011/b02fa6e279a15ec3b3793da09cd3c9d2_MIT14_01SCF10_problem_7-2_300k-mp4.vtt
+file_size: 21073
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

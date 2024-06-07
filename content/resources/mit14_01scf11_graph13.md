@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains graphs and figures related to welfare economics.
 draft: false
 file: /courses/14-01sc-principles-of-microeconomics-fall-2011/028f5e1da08103d591c5737bff1e55a0_MIT14_01SCF11_graph13.pdf
+file_size: 103812
 file_type: application/pdf
 image_metadata:
   caption: ''

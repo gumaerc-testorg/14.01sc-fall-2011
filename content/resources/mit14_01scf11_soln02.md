@@ -4,6 +4,7 @@ description: This resource contains solutions to the problem statements related 
   rational preferences and transitivity.
 draft: false
 file: /courses/14-01sc-principles-of-microeconomics-fall-2011/7f7098ba18351b03b31b9f9376902d13_MIT14_01SCF11_soln02.pdf
+file_size: 309327
 file_type: application/pdf
 image_metadata:
   caption: ''

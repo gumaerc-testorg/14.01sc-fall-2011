@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains graphs related to oligopoly I.
 draft: false
 file: /courses/14-01sc-principles-of-microeconomics-fall-2011/c88ccce808be3e7e719650baa4f7cce0_MIT14_01SCF11_graph16.pdf
+file_size: 70798
 file_type: application/pdf
 image_metadata:
   caption: ''

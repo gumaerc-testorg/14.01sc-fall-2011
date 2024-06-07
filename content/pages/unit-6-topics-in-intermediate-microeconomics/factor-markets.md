@@ -56,7 +56,7 @@ PROVIDER
 {{< thclose >}}{{< thopen >}}
 NOTES
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-[*14.64 Labor Economics and Public Policy, Fall 2009*](./resolveuid/e622054a701ceb2270808498b48968b0).
+[*14.64 Labor Economics and Public Policy, Fall 2009*](/courses/14-64-labor-economics-and-public-policy-fall-2009).
 {{< tdclose >}}{{< tdopen >}}
 MIT OpenCourseWare
 {{< tdclose >}}{{< tdopen >}}

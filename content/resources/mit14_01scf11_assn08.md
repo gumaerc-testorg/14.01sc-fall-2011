@@ -4,6 +4,7 @@ description: This resource contains 4 problem statements related to equilibrium,
   price, and profits.
 draft: false
 file: /courses/14-01sc-principles-of-microeconomics-fall-2011/a0daeb011d937f560b8cba4d164a45a7_MIT14_01SCF11_assn08.pdf
+file_size: 108057
 file_type: application/pdf
 image_metadata:
   caption: ''

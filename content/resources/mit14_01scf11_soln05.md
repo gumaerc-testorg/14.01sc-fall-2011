@@ -4,6 +4,7 @@ description: This resource contains solutions to the problem statements related 
   equilibrium price, capital and profits.
 draft: false
 file: /courses/14-01sc-principles-of-microeconomics-fall-2011/1aeaeb3993e8b8c60bb91f6aa0cce667_MIT14_01SCF11_soln05.pdf
+file_size: 277360
 file_type: application/pdf
 image_metadata:
   caption: ''
