@@ -55,7 +55,7 @@ PROVIDER
 {{< thclose >}}{{< thopen >}}
 NOTES
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-[*14.12 Economic Applications of Game Theory, Fall 2005*](./resolveuid/9c8d2d880e3431a1471f558c9bb0b5ef)*.*
+[*14.12 Economic Applications of Game Theory, Fall 2005*](/courses/14-12-economic-applications-of-game-theory-fall-2012)*.*
 {{< tdclose >}}{{< tdopen >}}
 MIT OpenCourseWare
 {{< tdclose >}}{{< tdopen >}}

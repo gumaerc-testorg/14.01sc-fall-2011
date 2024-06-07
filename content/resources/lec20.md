@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/14-01sc-principles-of-microeconomics-fall-2011/38ca86165171394f4f2da7129662c38f_lec20.jpg
+file_size: 6504
 file_type: image/jpeg
 image_metadata:
   caption: ''

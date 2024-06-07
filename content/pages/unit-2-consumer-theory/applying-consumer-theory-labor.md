@@ -12,21 +12,21 @@ uid: 52d96c2f-56aa-990b-e3ea-69526d59464b
 video_metadata:
   youtube_id: null
 ---
-« {{% resource_link e0983a2e-16f7-37a8-ad57-4f6bb67502e5 "Previous" %}} | {{% resource_link 5be371bb-9c4f-36b1-f197-043fc0d6cab4 "Next" %}} »
+« {{% resource_link "e0983a2e-16f7-37a8-ad57-4f6bb67502e5" "Previous" %}} | {{% resource_link "5be371bb-9c4f-36b1-f197-043fc0d6cab4" "Next" %}} »
 
 ## Session Overview
 
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-{{< resource 33f80df0-45a2-d873-690c-46d621bfe8bf >}}
+{{< resource uuid="33f80df0-45a2-d873-690c-46d621bfe8bf" >}}
 {{< tdclose >}}{{< tdopen >}}
 
 Along with what to buy, another key decision that we make every day as economic agents is how much to work and how much to relax. The decision about supplying labor can be analyzed with the same tools used to analyze the market for pizza or movies, and we call this the analysis of the labor market. This lecture provides an overview of the economics of the labor market.
 
-_The decision to nap instead of work can be analyzed by economic tools. Image courtesy of_ [_Joi Ito_](http://www.flickr.com/photos/joi/9913697/) _on Flickr._
+*The decision to nap instead of work can be analyzed by economic tools. Image courtesy of* [*Joi Ito*](http://www.flickr.com/photos/joi/9913697/) *on Flickr.*
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-_Keywords_: Labor supply; Giffin good; leisure; consumer theory; labor economics; child labor.
+*Keywords*: Labor supply; Giffin good; leisure; consumer theory; labor economics; child labor.
 
 ## Session Activities
 
@@ -36,24 +36,24 @@ Before watching the lecture video, read the course textbook for an introduction 
 
 - \[R&T\] Chapter 7, "The Analysis of Consumer Choice." Sections 7.2.
 - \[R&T\] Chapter 12, "Wages and Employment in Perfect Competition."
-- \[{{% resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "Perloff" "#_Perloff_" %}}\] Chapter 5, "Applying Consumer Theory." (optional)
+- \[{{% resource_link "8abb293b-49d8-047a-3f36-74bfa02e78f7" "Perloff" "#_Perloff_" %}}\] Chapter 5, "Applying Consumer Theory." (optional)
 
 ### Lecture Videos
 
 The lecture video for this session consists of two parts.
 
-{{< resource 08a84aae-8961-aa0d-6ea2-798e975825fa >}}
+{{< resource uuid="08a84aae-8961-aa0d-6ea2-798e975825fa" >}}
 
 ### Resources
 
-- {{% resource_link d272b420-c017-1f47-cd3e-dcb5b9cab225 "Graphs and Figures (PDF)" %}}
-- {{% resource_link 81a05ac0-27a6-510a-90f5-01c621061571 "Tables (PDF)" %}}
+- {{% resource_link "d272b420-c017-1f47-cd3e-dcb5b9cab225" "Graphs and Figures (PDF)" %}}
+- {{% resource_link "81a05ac0-27a6-510a-90f5-01c621061571" "Tables (PDF)" %}}
 
-{{< resource fda22a60-7972-6d64-f4fb-eb1e309d918b >}}
+{{< resource uuid="fda22a60-7972-6d64-f4fb-eb1e309d918b" >}}
 
 ### Resources
 
-- {{% resource_link 2cd9a13c-a8cc-bc9c-6bb1-9c713bf52fc1 "Graphs and Figures (PDF)" %}}
+- {{% resource_link "2cd9a13c-a8cc-bc9c-6bb1-9c713bf52fc1" "Graphs and Figures (PDF)" %}}
 
 ## Check Yourself
 
@@ -77,16 +77,6 @@ Question 4
 
 {{< quiz_multiple_choice questionId="MCQ4" >}}If rural households in Vietnam begin to earn more money for their crops and become richer, what will happen to the supply curve for their children's labor? (Hint: assume that education is a normal good.) {{< quiz_choices >}}{{< quiz_choice isCorrect="false" >}}It depends on their preferences.{{< /quiz_choice >}} {{< quiz_choice isCorrect="true" >}}It will shift left.{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}It will shift right.{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}No change.{{< /quiz_choice >}} {{< /quiz_choices >}}{{< quiz_solution >}}If education for children is a normal good, families will consume more of it (i.e., school attendance will increase) when their income increases. Accordingly, the supply curve for child labor will shift left because children are spending more time in school.{{< /quiz_solution >}}{{< /quiz_multiple_choice >}}
 
-## Further Study
-
-These optional resources are provided for students that wish to explore this topic more fully.
-
-### Textbook Study Materials
-
-See the \[Perloff\] chapter for the topics covered, as well as quizzes, applications, and other related resources.
-
-- [Chapter 5](http://faculty.bcitbusiness.ca/kevinw/6500/Perloff/05M_Perloff_8008884_02_Micro_C05.pdf)
-
 ### Other OCW and OER Content
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
@@ -96,11 +86,11 @@ PROVIDER
 {{< thclose >}}{{< thopen >}}
 NOTES
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-[_14.64 Labor Economics and Public Policy, Fall 2009_](/courses/14-64-labor-economics-and-public-policy-fall-2009).
+[*14.64 Labor Economics and Public Policy, Fall 2009*](/courses/14-64-labor-economics-and-public-policy-fall-2009).
 {{< tdclose >}}{{< tdopen >}}
 MIT OpenCourseWare
 {{< tdclose >}}{{< tdopen >}}
 An in-depth course on labor economics.
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-« {{% resource_link e0983a2e-16f7-37a8-ad57-4f6bb67502e5 "Previous" %}} | {{% resource_link 5be371bb-9c4f-36b1-f197-043fc0d6cab4 "Next" %}} »
+« {{% resource_link "e0983a2e-16f7-37a8-ad57-4f6bb67502e5" "Previous" %}} | {{% resource_link "5be371bb-9c4f-36b1-f197-043fc0d6cab4" "Next" %}} »

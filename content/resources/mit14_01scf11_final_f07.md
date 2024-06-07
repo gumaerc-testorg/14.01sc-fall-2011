@@ -4,6 +4,7 @@ description: This resource contains 5 problem statements related to nash equilib
   marginal cost, efficient quantity, and price regulation.
 draft: false
 file: /courses/14-01sc-principles-of-microeconomics-fall-2011/39c21ac1c3eb1c3de18b206bab7f287c_MIT14_01SCF11_final_f07.pdf
+file_size: 278576
 file_type: application/pdf
 image_metadata:
   caption: ''

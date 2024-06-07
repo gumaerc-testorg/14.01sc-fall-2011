@@ -12,21 +12,21 @@ uid: eba60351-486e-4457-3f84-ae3b47789fde
 video_metadata:
   youtube_id: null
 ---
-« {{% resource_link 6d0eabb4-bf84-c44f-6ed5-096dcf2cf3a4 "Previous" %}} | {{% resource_link 0c0a7957-a70d-ea1c-20bc-11996dd1090c "Next" %}} »
+« {{% resource_link "6d0eabb4-bf84-c44f-6ed5-096dcf2cf3a4" "Previous" %}} | {{% resource_link "0c0a7957-a70d-ea1c-20bc-11996dd1090c" "Next" %}} »
 
 ## Session Overview
 
 {{< tableopen >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-{{< resource 6f48d646-238f-270e-2406-2afdc13b7bfd >}}
+{{< resource uuid="6f48d646-238f-270e-2406-2afdc13b7bfd" >}}
 {{< tdclose >}}{{< tdopen >}}
 
 Behind every supply and demand curve is an army of producers and consumers making their own decisions. For consumers, their decisions are driven, quite simply, by what they want! All consumers make decisions to maximize their utility. In this lecture, we will learn about utility, how to define it and how we represent it mathematically. 
 
-_How does each slice of pizza you consume impact your utility for the next? Image courtesy of_ [_William Jones_](http://www.flickr.com/photos/fritish/3357925979/) _on Flickr_.
+*How does each slice of pizza you consume impact your utility for the next? Image courtesy of* [*William Jones*](http://www.flickr.com/photos/fritish/3357925979/) *on Flickr*.
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-_Keywords_: Consumer theory; preference assumptions; indifference curves; utility functions; marginal utility.
+*Keywords*: Consumer theory; preference assumptions; indifference curves; utility functions; marginal utility.
 
 ## Session Activities
 
@@ -34,20 +34,20 @@ _Keywords_: Consumer theory; preference assumptions; indifference curves; utilit
 
 Read the recitation notes, which cover new content that adds to and supplements the material covered in lecture.
 
-- {{% resource_link 32e74182-abe7-3c0c-2035-508b67c2d040 "Recitation: Calculating Elasticities (PDF)" %}}
+- {{% resource_link "32e74182-abe7-3c0c-2035-508b67c2d040" "Recitation: Calculating Elasticities (PDF)" %}}
 
 Before watching the lecture video, read the course textbook for an introduction to the material covered in this session:
 
-- {{% resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "[R&T]" "#_R_T_" %}} Chapter 7, "The Analysis of Consumer Choice." Sections 7.1, 7.2.1-2, and 7.3.2.
-- {{% resource_link 8abb293b-49d8-047a-3f36-74bfa02e78f7 "[Perloff]" "#_Perloff_" %}} Chapter 4, "Consumer Choice." (optional)
+- {{% resource_link "8abb293b-49d8-047a-3f36-74bfa02e78f7" "\[R&T\]" "#_R_T_" %}} Chapter 7, "The Analysis of Consumer Choice." Sections 7.1, 7.2.1-2, and 7.3.2.
+- {{% resource_link "8abb293b-49d8-047a-3f36-74bfa02e78f7" "\[Perloff\]" "#_Perloff_" %}} Chapter 4, "Consumer Choice." (optional)
 
 ### Lecture Videos
 
-{{< resource 6dfd9f41-d710-f14d-4391-5d525511f7ad >}}
+{{< resource uuid="6dfd9f41-d710-f14d-4391-5d525511f7ad" >}}
 
 ### Resources
 
-- {{% resource_link cf538695-601b-cc70-02d5-6b83b00ff91e "Graphs and Figures (PDF)" %}}
+- {{% resource_link "cf538695-601b-cc70-02d5-6b83b00ff91e" "Graphs and Figures (PDF)" %}}
 
 ## Check Yourself
 
@@ -75,16 +75,6 @@ Question 5
 
 {{< quiz_multiple_choice questionId="MCQ5" >}}What is an appropriate intuitive explanation of the principle of diminishing marginal utility? {{< quiz_choices >}}{{< quiz_choice isCorrect="true" >}}All of these.{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}Consumers have a preference for diversity in consumption.{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}Consumers value more the first unit of any good they own, compared to the hundredth unit.{{< /quiz_choice >}} {{< quiz_choice isCorrect="false" >}}Everyone gets tired of consuming the same thing eventually.{{< /quiz_choice >}} {{< /quiz_choices >}}{{< quiz_solution >}}These are all appropriate ways to capture the intuition behind the principle of diminishing marginal utility.{{< /quiz_solution >}}{{< /quiz_multiple_choice >}}
 
-## Further Study
-
-These optional resources are provided for students that wish to explore this topic more fully.
-
-### Textbook Study Materials
-
-See the \[Perloff\] chapter for the topics covered, as well as quizzes, applications, and other related resources.
-
-- [Chapter 4](http://faculty.bcitbusiness.ca/KevinW/6500/Perloff/04M_Perloff_8008884_02_Micro_C04.pdf)
-
 ### Other OCW and OER Content
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
@@ -94,11 +84,11 @@ PROVIDER
 {{< thclose >}}{{< thopen >}}
 NOTES
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
-"Axioms of Consumer Preference and the Theory of Choice."  Lec #3 in _14.03 Microeconomic Theory and Public Policy, Fall 2010_.
+"Axioms of Consumer Preference and the Theory of Choice."  Lec #3 in *14.03 Microeconomic Theory and Public Policy, Fall 2010*.
 {{< tdclose >}}{{< tdopen >}}
 MIT OpenCourseWare
 {{< tdclose >}}{{< tdopen >}}
 Alternative notes with an advanced theoretical approach.
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-« {{% resource_link 6d0eabb4-bf84-c44f-6ed5-096dcf2cf3a4 "Previous" %}} | {{% resource_link 0c0a7957-a70d-ea1c-20bc-11996dd1090c "Next" %}} »
+« {{% resource_link "6d0eabb4-bf84-c44f-6ed5-096dcf2cf3a4" "Previous" %}} | {{% resource_link "0c0a7957-a70d-ea1c-20bc-11996dd1090c" "Next" %}} »

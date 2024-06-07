@@ -3,6 +3,7 @@ content_type: resource
 description: Government intervention can impact gasoline prices. Image courtesy of
   Aaron Tyo-Dikerson on Flickr.
 file: /courses/14-01sc-principles-of-microeconomics-fall-2011/4d900c8c4d92e21cc8fc835a4eede65d_lec02.jpg
+file_size: 3797
 file_type: image/jpeg
 image_metadata:
   caption: Government intervention can impact gasoline prices.

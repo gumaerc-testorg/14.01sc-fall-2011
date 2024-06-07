@@ -4,6 +4,7 @@ description: 'This resource contains 4 problem statements related to costs, prof
   maximization, monopoly, and oligopoly. '
 draft: false
 file: /courses/14-01sc-principles-of-microeconomics-fall-2011/848c8e311d4ddfc10f10c7819965338e_MIT14_01SCF11_exam02.pdf
+file_size: 313313
 file_type: application/pdf
 image_metadata:
   caption: ''
