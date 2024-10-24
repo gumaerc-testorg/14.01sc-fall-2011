@@ -2,7 +2,7 @@
 content_type: resource
 description: The decision to nap instead of work can be analyzed by economic tools.
   Image courtesy of Joi Ito on Flickr.
-file: /courses/14-01sc-principles-of-microeconomics-fall-2011/33f80df045a2d873690c46d621bfe8bf_lec07.jpg
+file: /ol-ocw-studio-app/courses/14-01sc-principles-of-microeconomics-fall-2011/33f80df045a2d873690c46d621bfe8bf_lec07.jpg
 file_size: 3177
 file_type: image/jpeg
 image_metadata:
