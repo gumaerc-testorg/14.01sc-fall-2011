@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is a recitation file for competition review.
 draft: false
-file: /courses/14-01sc-principles-of-microeconomics-fall-2011/036a42dbf99a143561e9b40cc2d2faf2_MIT14_01SCF11_rec07.pdf
+file: /ol-ocw-studio-app/courses/14-01sc-principles-of-microeconomics-fall-2011/036a42dbf99a143561e9b40cc2d2faf2_MIT14_01SCF11_rec07.pdf
 file_size: 369583
 file_type: application/pdf
 image_metadata:

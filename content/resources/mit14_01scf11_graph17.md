@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains graphs for oligopoly II.
 draft: false
-file: /courses/14-01sc-principles-of-microeconomics-fall-2011/2db3ce21626a7b59f5b7a2d70535a8fc_MIT14_01SCF11_graph17.pdf
+file: /ol-ocw-studio-app/courses/14-01sc-principles-of-microeconomics-fall-2011/2db3ce21626a7b59f5b7a2d70535a8fc_MIT14_01SCF11_graph17.pdf
 file_size: 49011
 file_type: application/pdf
 image_metadata:

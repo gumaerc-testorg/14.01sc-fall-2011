@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains solutions to the problem statements related to
   equilibrium, market price, and profits.
 draft: false
-file: /courses/14-01sc-principles-of-microeconomics-fall-2011/1ad4807ab942d57408edecf7e2878ef7_MIT14_01SCF11_soln08.pdf
+file: /ol-ocw-studio-app/courses/14-01sc-principles-of-microeconomics-fall-2011/1ad4807ab942d57408edecf7e2878ef7_MIT14_01SCF11_soln08.pdf
 file_size: 129582
 file_type: application/pdf
 image_metadata:
