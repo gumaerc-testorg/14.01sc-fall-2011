@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains graphs related to monopoly I.
 draft: false
-file: /courses/14-01sc-principles-of-microeconomics-fall-2011/550ee0bda81834f6d656e192a2a68c5b_MIT14_01SCF11_graph14.pdf
+file: /ol-ocw-studio-app/courses/14-01sc-principles-of-microeconomics-fall-2011/550ee0bda81834f6d656e192a2a68c5b_MIT14_01SCF11_graph14.pdf
 file_size: 80467
 file_type: application/pdf
 image_metadata:

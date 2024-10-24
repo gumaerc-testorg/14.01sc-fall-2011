@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains graphs and figures related to deriving demand
   and curves.
 draft: false
-file: /courses/14-01sc-principles-of-microeconomics-fall-2011/f90025ff5e764c159e7ba8698ff9fac5_MIT14_01SCF11_graph06.pdf
+file: /ol-ocw-studio-app/courses/14-01sc-principles-of-microeconomics-fall-2011/f90025ff5e764c159e7ba8698ff9fac5_MIT14_01SCF11_graph06.pdf
 file_size: 79983
 file_type: application/pdf
 image_metadata:

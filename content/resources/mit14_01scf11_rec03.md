@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is the recitation file for substitution.
 draft: false
-file: /courses/14-01sc-principles-of-microeconomics-fall-2011/7576d5136178f34315678983953421c9_MIT14_01SCF11_rec03.pdf
+file: /ol-ocw-studio-app/courses/14-01sc-principles-of-microeconomics-fall-2011/7576d5136178f34315678983953421c9_MIT14_01SCF11_rec03.pdf
 file_size: 293225
 file_type: application/pdf
 image_metadata:
