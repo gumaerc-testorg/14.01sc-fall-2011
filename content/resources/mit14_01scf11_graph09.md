@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains graphs and figures related to productivity and
   costs.
 draft: false
-file: /courses/14-01sc-principles-of-microeconomics-fall-2011/1ef458b02967425a924134a2668e08c5_MIT14_01SCF11_graph09.pdf
+file: /ol-ocw-studio-app/courses/14-01sc-principles-of-microeconomics-fall-2011/1ef458b02967425a924134a2668e08c5_MIT14_01SCF11_graph09.pdf
 file_size: 83513
 file_type: application/pdf
 image_metadata:

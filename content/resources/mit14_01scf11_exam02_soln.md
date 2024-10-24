@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains solutions to the problem statements related to
   costs, profit maximization, monopoly, and oligopoly. '
 draft: false
-file: /courses/14-01sc-principles-of-microeconomics-fall-2011/81a3f61fc64b47ebc0fbe50c0c0b5fcb_MIT14_01SCF11_exam02_soln.pdf
+file: /ol-ocw-studio-app/courses/14-01sc-principles-of-microeconomics-fall-2011/81a3f61fc64b47ebc0fbe50c0c0b5fcb_MIT14_01SCF11_exam02_soln.pdf
 file_size: 376397
 file_type: application/pdf
 image_metadata:
