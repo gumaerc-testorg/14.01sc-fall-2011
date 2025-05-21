@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains graphs related to international trade.
 draft: false
-file: /ol-ocw-studio-app/courses/14-01sc-principles-of-microeconomics-fall-2011/140751ff9fe6eb2976df6d6c5942fa7d_MIT14_01SCF11_graph19.pdf
+file: /courses/14-01sc-principles-of-microeconomics-fall-2011/140751ff9fe6eb2976df6d6c5942fa7d_MIT14_01SCF11_graph19.pdf
 file_size: 100989
 file_type: application/pdf
 image_metadata:

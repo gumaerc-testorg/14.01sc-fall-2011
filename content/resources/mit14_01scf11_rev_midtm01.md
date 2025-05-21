@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to unit 2: consumer theory.'
 draft: false
-file: /ol-ocw-studio-app/courses/14-01sc-principles-of-microeconomics-fall-2011/20c1312e8e56a899ed91790b22f39938_MIT14_01SCF11_rev_midtm01.pdf
+file: /courses/14-01sc-principles-of-microeconomics-fall-2011/20c1312e8e56a899ed91790b22f39938_MIT14_01SCF11_rev_midtm01.pdf
 file_size: 348908
 file_type: application/pdf
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains graphs and figures related to competition III.
 draft: false
-file: /ol-ocw-studio-app/courses/14-01sc-principles-of-microeconomics-fall-2011/45d2bb157412c5d6dd855b9e7f788ef0_MIT14_01SCF11_graph12.pdf
+file: /courses/14-01sc-principles-of-microeconomics-fall-2011/45d2bb157412c5d6dd855b9e7f788ef0_MIT14_01SCF11_graph12.pdf
 file_size: 51413
 file_type: application/pdf
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains recitation notes for applying supply and demand.
 draft: false
-file: /ol-ocw-studio-app/courses/14-01sc-principles-of-microeconomics-fall-2011/5c67b8718ff55091c19b47d15136dc53_MIT14_01SCF11_rec01.pdf
+file: /courses/14-01sc-principles-of-microeconomics-fall-2011/5c67b8718ff55091c19b47d15136dc53_MIT14_01SCF11_rec01.pdf
 file_size: 353907
 file_type: application/pdf
 image_metadata:
