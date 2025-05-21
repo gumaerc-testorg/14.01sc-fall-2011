@@ -3,7 +3,7 @@ content_type: resource
 description: Economics can't help you make a selection from this box of chocolates,
   but can be a vital tool in other decision-making situations. Image courtesy of ninanord
   on Flickr.
-file: /ol-ocw-studio-app/courses/14-01sc-principles-of-microeconomics-fall-2011/a01213f3475b5b31b7605b825fba23af_lec01.jpg
+file: /courses/14-01sc-principles-of-microeconomics-fall-2011/a01213f3475b5b31b7605b825fba23af_lec01.jpg
 file_size: 4194
 file_type: image/jpeg
 image_metadata:

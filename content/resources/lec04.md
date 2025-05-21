@@ -2,7 +2,7 @@
 content_type: resource
 description: How does each slice of pizza you consume impact your utility for the
   next? Image courtesy of William Jones on Flickr.
-file: /ol-ocw-studio-app/courses/14-01sc-principles-of-microeconomics-fall-2011/6f48d646238f270e24062afdc13b7bfd_lec04.jpg
+file: /courses/14-01sc-principles-of-microeconomics-fall-2011/6f48d646238f270e24062afdc13b7bfd_lec04.jpg
 file_size: 4313
 file_type: image/jpeg
 image_metadata:

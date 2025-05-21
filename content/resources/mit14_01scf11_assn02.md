@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains 4 problem statements related to rational preferences. '
 draft: false
-file: /ol-ocw-studio-app/courses/14-01sc-principles-of-microeconomics-fall-2011/d3c8fbeaf7f9c0e225b378eeed5983f3_MIT14_01SCF11_assn02.pdf
+file: /courses/14-01sc-principles-of-microeconomics-fall-2011/d3c8fbeaf7f9c0e225b378eeed5983f3_MIT14_01SCF11_assn02.pdf
 file_size: 93624
 file_type: application/pdf
 image_metadata:

@@ -4,7 +4,7 @@ description: This resource contains solutions to the problem statements related 
   marginal cost of production, annual fixed cost of production, demand for labor,
   and market price.
 draft: false
-file: /ol-ocw-studio-app/courses/14-01sc-principles-of-microeconomics-fall-2011/e5d6665b225e91d204990b870efa40eb_MIT14_01SCF11_soln02_f07.pdf
+file: /courses/14-01sc-principles-of-microeconomics-fall-2011/e5d6665b225e91d204990b870efa40eb_MIT14_01SCF11_soln02_f07.pdf
 file_size: 348458
 file_type: application/pdf
 image_metadata:

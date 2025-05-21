@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains 4 problem statements related to profit maximizing
   output, capital, and equilibrium price.
 draft: false
-file: /ol-ocw-studio-app/courses/14-01sc-principles-of-microeconomics-fall-2011/9f32f98042155acee14de27b8a41b130_MIT14_01SCF11_assn05.pdf
+file: /courses/14-01sc-principles-of-microeconomics-fall-2011/9f32f98042155acee14de27b8a41b130_MIT14_01SCF11_assn05.pdf
 file_size: 124609
 file_type: application/pdf
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /ol-ocw-studio-app/courses/14-01sc-principles-of-microeconomics-fall-2011/5ee42b378a14c67b2435ffec8da2a509_MIT14_01SCF10_problem_6-4_300k.pdf
+file: /courses/14-01sc-principles-of-microeconomics-fall-2011/5ee42b378a14c67b2435ffec8da2a509_MIT14_01SCF10_problem_6-4_300k.pdf
 file_size: 65206
 file_type: application/pdf
 image_metadata:

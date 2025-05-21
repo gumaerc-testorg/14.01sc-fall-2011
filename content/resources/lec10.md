@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Firms, like auto racers, operate in a competitive environment. This
   image is a work of the US Federal Government and in the public domain. Source: Wikipedia.'
-file: /ol-ocw-studio-app/courses/14-01sc-principles-of-microeconomics-fall-2011/e570c1814ed4e9edb8243cc8eb139b92_lec10.jpg
+file: /courses/14-01sc-principles-of-microeconomics-fall-2011/e570c1814ed4e9edb8243cc8eb139b92_lec10.jpg
 file_size: 5127
 file_type: image/jpeg
 image_metadata:
