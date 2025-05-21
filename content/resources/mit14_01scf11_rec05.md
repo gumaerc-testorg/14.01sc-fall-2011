@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is a recitation file for production function and costs.
 draft: false
-file: /ol-ocw-studio-app/courses/14-01sc-principles-of-microeconomics-fall-2011/d5e3984e1e3d5b5a67985441ce486b66_MIT14_01SCF11_rec05.pdf
+file: /courses/14-01sc-principles-of-microeconomics-fall-2011/d5e3984e1e3d5b5a67985441ce486b66_MIT14_01SCF11_rec05.pdf
 file_size: 267556
 file_type: application/pdf
 image_metadata:

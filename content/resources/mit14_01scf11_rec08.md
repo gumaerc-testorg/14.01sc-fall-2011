@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is a recitation file for price ceilings and price floors.
 draft: false
-file: /ol-ocw-studio-app/courses/14-01sc-principles-of-microeconomics-fall-2011/02fed21358a64601ee532821383a3b78_MIT14_01SCF11_rec08.pdf
+file: /courses/14-01sc-principles-of-microeconomics-fall-2011/02fed21358a64601ee532821383a3b78_MIT14_01SCF11_rec08.pdf
 file_size: 254421
 file_type: application/pdf
 image_metadata:

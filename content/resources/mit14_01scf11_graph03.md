@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains graphs and figures related to elasticity.
 draft: false
-file: /ol-ocw-studio-app/courses/14-01sc-principles-of-microeconomics-fall-2011/a672f1a9ca56a6b05caa742c7915bc2d_MIT14_01SCF11_graph03.pdf
+file: /courses/14-01sc-principles-of-microeconomics-fall-2011/a672f1a9ca56a6b05caa742c7915bc2d_MIT14_01SCF11_graph03.pdf
 file_size: 62012
 file_type: application/pdf
 image_metadata:

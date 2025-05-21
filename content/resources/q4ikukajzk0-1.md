@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/14-01sc-principles-of-microeconomics-fall-2011/22a421c048d22a223171827046852f92_Q4iKuKAjzK0.pdf
+file: /courses/14-01sc-principles-of-microeconomics-fall-2011/22a421c048d22a223171827046852f92_Q4iKuKAjzK0.pdf
 file_size: 68352
 file_type: application/pdf
 learning_resource_types: []

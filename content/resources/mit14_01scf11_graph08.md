@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains graphs and figures related to producer theory.
 draft: false
-file: /ol-ocw-studio-app/courses/14-01sc-principles-of-microeconomics-fall-2011/9c9d589299d8607ab57b829d8117e655_MIT14_01SCF11_graph08.pdf
+file: /courses/14-01sc-principles-of-microeconomics-fall-2011/9c9d589299d8607ab57b829d8117e655_MIT14_01SCF11_graph08.pdf
 file_size: 134088
 file_type: application/pdf
 image_metadata:

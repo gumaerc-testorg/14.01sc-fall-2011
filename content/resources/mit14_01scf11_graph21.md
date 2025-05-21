@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains graphs related to capital supply and markets I.
 draft: false
-file: /ol-ocw-studio-app/courses/14-01sc-principles-of-microeconomics-fall-2011/4dc1e81d399ed8c8828708258f152a90_MIT14_01SCF11_graph21.pdf
+file: /courses/14-01sc-principles-of-microeconomics-fall-2011/4dc1e81d399ed8c8828708258f152a90_MIT14_01SCF11_graph21.pdf
 file_size: 75757
 file_type: application/pdf
 image_metadata:
