@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains 5 problem statements related to marginal rates
   of substitution, inverse demand curve, and risks. '
 draft: false
-file: /courses/14-01sc-principles-of-microeconomics-fall-2011/a899c18986c0667965a59915d7e587b1_MIT14_01SCF11_exam01_f07.pdf
+file: /ol-ocw-studio-app/courses/14-01sc-principles-of-microeconomics-fall-2011/a899c18986c0667965a59915d7e587b1_MIT14_01SCF11_exam01_f07.pdf
 file_size: 278596
 file_type: application/pdf
 image_metadata:

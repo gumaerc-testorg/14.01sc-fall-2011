@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to unit 2: consumer theory.'
 draft: false
-file: /courses/14-01sc-principles-of-microeconomics-fall-2011/20c1312e8e56a899ed91790b22f39938_MIT14_01SCF11_rev_midtm01.pdf
+file: /ol-ocw-studio-app/courses/14-01sc-principles-of-microeconomics-fall-2011/20c1312e8e56a899ed91790b22f39938_MIT14_01SCF11_rev_midtm01.pdf
 file_size: 348908
 file_type: application/pdf
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Exam Materials
+- Supplemental Exam Materials
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Midterm Exam 1

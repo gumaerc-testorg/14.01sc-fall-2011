@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/14-01sc-principles-of-microeconomics-fall-2011/44ffdeebdafe5629afb0fb8745b11906_MIT14_01SCF10_problem_6-4_300k-mp4.vtt
+file: /ol-ocw-studio-app/courses/14-01sc-principles-of-microeconomics-fall-2011/44ffdeebdafe5629afb0fb8745b11906_MIT14_01SCF10_problem_6-4_300k-mp4.vtt
 file_size: 23657
 file_type: application/x-subrip
 learning_resource_types: []
