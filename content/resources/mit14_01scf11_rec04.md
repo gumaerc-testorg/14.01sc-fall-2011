@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is the recitation file for demand function.
 draft: false
-file: /courses/14-01sc-principles-of-microeconomics-fall-2011/39fdb9770f2dd53f5ad4fd71de2b04df_MIT14_01SCF11_rec04.pdf
+file: /ol-ocw-studio-app/courses/14-01sc-principles-of-microeconomics-fall-2011/39fdb9770f2dd53f5ad4fd71de2b04df_MIT14_01SCF11_rec04.pdf
 file_size: 250531
 file_type: application/pdf
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Recitation Notes
+- Problem-solving Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Introduction to Producer Theory

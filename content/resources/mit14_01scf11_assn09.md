@@ -4,7 +4,7 @@ description: This resource contains 4 problem statements related to government b
   intertemporal consumption, savings supply, government redistribution, and social
   welfare.
 draft: false
-file: /courses/14-01sc-principles-of-microeconomics-fall-2011/3adbb05565cd503574c5bea4c29a3cee_MIT14_01SCF11_assn09.pdf
+file: /ol-ocw-studio-app/courses/14-01sc-principles-of-microeconomics-fall-2011/3adbb05565cd503574c5bea4c29a3cee_MIT14_01SCF11_assn09.pdf
 file_size: 122074
 file_type: application/pdf
 image_metadata:

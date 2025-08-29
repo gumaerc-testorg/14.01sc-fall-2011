@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains 5 problem statements related to equilibrium price
   and quantity. '
 draft: false
-file: /courses/14-01sc-principles-of-microeconomics-fall-2011/cb13186677565efb1dc58bd9e91f947b_MIT14_01SCF11_assn01.pdf
+file: /ol-ocw-studio-app/courses/14-01sc-principles-of-microeconomics-fall-2011/cb13186677565efb1dc58bd9e91f947b_MIT14_01SCF11_assn01.pdf
 file_size: 103688
 file_type: application/pdf
 image_metadata:

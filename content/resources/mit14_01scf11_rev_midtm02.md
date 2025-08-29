@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information related to the units and lectures. '
 draft: false
-file: /courses/14-01sc-principles-of-microeconomics-fall-2011/66a11c228027ef6cd3dbc53a30e64921_MIT14_01SCF11_rev_midtm02.pdf
+file: /ol-ocw-studio-app/courses/14-01sc-principles-of-microeconomics-fall-2011/66a11c228027ef6cd3dbc53a30e64921_MIT14_01SCF11_rev_midtm02.pdf
 file_size: 366471
 file_type: application/pdf
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Exam Materials
+- Supplemental Exam Materials
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Midterm Exam 2
