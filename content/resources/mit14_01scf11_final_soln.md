@@ -4,7 +4,7 @@ description: 'This resource contains solutions to the problem statements related
   uncertainty, price, costs, oligopoly, labor supply, income and substitution effects,
   trade, and price discrimination. '
 draft: false
-file: /courses/14-01sc-principles-of-microeconomics-fall-2011/6c60e9cb452492f849f1d95210e28bf3_MIT14_01SCF11_final_soln.pdf
+file: /ol-ocw-studio-app/courses/14-01sc-principles-of-microeconomics-fall-2011/6c60e9cb452492f849f1d95210e28bf3_MIT14_01SCF11_final_soln.pdf
 file_size: 435472
 file_type: application/pdf
 image_metadata:
