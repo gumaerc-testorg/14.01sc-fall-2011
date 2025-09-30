@@ -24,7 +24,7 @@ The analysis of competitive markets is based on the stated goal of efficiency, o
 
   {{% resource_link 1b95348a-7b79-a798-d635-6d4376464c0d "Equity and Efficiency" %}}
 
-  _Image courtesy of [Vince\_Lamb](http://www.flickr.com/photos/22320444@N08/5477667267/) on Flickr._
+  _Image courtesy of {{% resource_link "3c28a6b6-4096-4222-9115-4112c54052aa" "Vince\_Lamb" %}} on Flickr._
 
 
 {{< tdclose >}}
@@ -40,7 +40,7 @@ The analysis of competitive markets is based on the stated goal of efficiency, o
 
   {{% resource_link b3df4706-2059-ac3f-7af8-8832de93e0fb "Government Redistribution Policy" %}}
 
-  _Image courtesy of [Ed Marshall](http://www.flickr.com/photos/edward_marshall/4205363720/) on Flickr._
+  _Image courtesy of {{% resource_link "3039173b-afc3-4279-9323-4858e43619d1" "Ed Marshall" %}} on Flickr._
 
 
 {{< tdclose >}}
@@ -56,7 +56,7 @@ The analysis of competitive markets is based on the stated goal of efficiency, o
 
   {{% resource_link 7846c5e3-1518-5524-02f1-19e7b530b4bd "U.S. Social Insurance Programs" %}}
 
-  _Image courtesy of [wisaflcio](http://www.flickr.com/photos/wisaflcio/4911396314/) on Flickr._
+  _Image courtesy of {{% resource_link "dc33ab0c-5d76-4023-bea2-67a53f3dfa32" "wisaflcio" %}} on Flickr._
 
 
 {{< tdclose >}}
@@ -72,7 +72,7 @@ The analysis of competitive markets is based on the stated goal of efficiency, o
 
   {{% resource_link 41da8f54-7f2a-d774-baa0-e7c50d7cf9e6 "Healthcare Economics" %}}
 
-  _Image courtesy of [University of Nottingham](http://www.flickr.com/photos/uonottingham/6673322549/in/photostream/) on Flickr._
+  _Image courtesy of {{% resource_link "ab4f204c-1d75-4957-8e31-02a9cf34e23f" "University of Nottingham" %}} on Flickr._
 
 
 {{< tdclose >}}

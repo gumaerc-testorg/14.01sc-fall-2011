@@ -27,7 +27,7 @@ Session Overview
 
 The majority of government revenue earned is not spent on explicitly redistributive programs, such as those discussed in previous lectures about efficiency and equity. In fact, the majority of government revenue earned is devoted to social insurance. Social insurance is designed to insure individuals against risk in cases where the private market may not effectively provide such insurance. In this lecture, we will begin to learn about the role of social insurance.
 
-_Social Security, launched in 1935, is a US social insurance program. Image courtesy of [wisaflcio](http://www.flickr.com/photos/wisaflcio/4911396314/) on Flickr._
+_Social Security, launched in 1935, is a US social insurance program. Image courtesy of {{% resource_link "dc33ab0c-5d76-4023-bea2-67a53f3dfa32" "wisaflcio" %}} on Flickr._
 
 
 {{< tdclose >}}

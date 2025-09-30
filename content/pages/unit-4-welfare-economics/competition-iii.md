@@ -27,7 +27,7 @@ Session Overview
 
 Models are easy to construct, but they may not always exactly match reality. While we assume that firms maximize profits, this may not always be true, and in this lecture we start to learn why. We also start to think about how we can measure the welfare that consumers gain from participating in a market.
 
-_Stocks and stock options are commonly used to overcome the agency problem. Image courtesy of [Lance Ball](http://www.flickr.com/photos/skimcoat/2931005015/in/photostream/) on Flickr._
+_Stocks and stock options are commonly used to overcome the agency problem. Image courtesy of {{% resource_link "7a90db0a-5dc1-402f-94d9-2e98da79a745" "Lance Ball" %}} on Flickr._
 
 
 {{< tdclose >}}

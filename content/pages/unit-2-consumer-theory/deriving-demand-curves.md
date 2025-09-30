@@ -22,7 +22,7 @@ video_metadata:
 
 Individuals make decisions about what to buy and when. But when we talk about the economy every day, we are often analyzing what millions of people are doing and deciding to do at different times. In order to think about this problem, we need to move from the micro to the macro and use our model of individual behavior to generate predictions about what will happen to total demand when the price changes.
 
-*Vintage food stamps. Image courtesy of* [*Brian*](http://www.flickr.com/photos/ncreedplayer/4459054998/) *on Flickr.*
+*Vintage food stamps. Image courtesy of* {{% resource_link "d6e4c942-0585-4aa6-8928-7215dc5b6b3f" "*Brian*" %}} *on Flickr.*
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 

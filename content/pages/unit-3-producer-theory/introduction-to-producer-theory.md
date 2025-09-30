@@ -27,7 +27,7 @@ Session Overview
 
 As we've already learned, consumers gain utility from buying goods—but every good has to come from somewhere! Goods are produced by firms, and analyzing the decisions of firms is also central to our understanding of the economy. In this lecture, we will learn how companies make important operation decisions.
 
-_When considering firm production decisions, we must consider the two forms of firm input – labor and capital. This image is a work of the US Federal Government and in the public domain. Source: [Library of Congress](http://www.loc.gov/pictures/resource/fsac.1a34951/)_.
+_When considering firm production decisions, we must consider the two forms of firm input – labor and capital. This image is a work of the US Federal Government and in the public domain. Source: {{% resource_link "e4d02328-bedf-4644-9e55-c4c6ecbead1c" "Library of Congress" %}}_.
 
 
 {{< tdclose >}}
