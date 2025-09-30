@@ -27,7 +27,7 @@ Session Overview
 
 In 2010, President Obama signed the Patient Protection and Affordable Care Act (PPACA) into law to address issues of access and cost in healthcare. In this lecture, we discuss these issues in healthcare and the role of the PPACA in addressing these issues to demonstrate how a public policy tool can be used to address many of the economic problems discussed throughout the course.
 
-_The overuse of medical services is a key problem in healthcare. Image courtesy of [University of Nottingham](http://www.flickr.com/photos/uonottingham/6673322549/in/photostream/) on Flickr._
+_The overuse of medical services is a key problem in healthcare. Image courtesy of {{% resource_link "ab4f204c-1d75-4957-8e31-02a9cf34e23f" "University of Nottingham" %}} on Flickr._
 
 
 {{< tdclose >}}
@@ -66,7 +66,7 @@ These optional resources are provided for students that wish to explore this top
 
 The following article was referenced in lecture:
 
-Gawande, Atul. "[The Cost Conundrum](http://www.newyorker.com/reporting/2009/06/01/090601fa_fact_gawande)." _The New Yorker_, June 1, 2009.
+Gawande, Atul. "{{% resource_link "4a4c1511-c9b4-41ce-9c06-65c4272be1c0" "The Cost Conundrum" %}}." _The New Yorker_, June 1, 2009.
 
 To learn more about healthcare reform, check out Professor Gruber's graphic novel:
 

@@ -27,7 +27,7 @@ Session Overview
 
 Working with the firm's cost function enables us to learn how much of each input the firm should optimally use to produce a given level of output. However, the firm still has to decide how much output it should produce. This decision depends on the type of market the firm is operating in. We begin by analyzing the most common type of market: perfect competition.
 
-_Firms, like auto racers, operate in a competitive environment. This image is a work of the US Federal Government and in the public domain. Source: [Wikipedia](http://en.wikipedia.org/wiki/File:NASCAR_practice.jpg)._
+_Firms, like auto racers, operate in a competitive environment. This image is a work of the US Federal Government and in the public domain. Source: {{% resource_link "568a4c27-6bc9-49a0-b41a-3fa1f5ce62a8" "Wikipedia" %}}._
 
 
 {{< tdclose >}}
@@ -87,6 +87,6 @@ These optional resources are provided for students that wish to explore this top
 
 Learn more about Nobel Laureate Peter Diamond:
 
-"[Peter A. Diamond - Biographical.](https://www.nobelprize.org/prizes/economic-sciences/2010/diamond/facts/)" Nobelprize.org.
+"{{% resource_link "350542fb-d611-470a-9376-b652155f431e" "Peter A. Diamond - Biographical." %}}" Nobelprize.org.
 
 « {{% resource_link 35e2a9c4-1897-5d5d-2bfc-b2dfa5fa18ac "Previous" %}} | {{% resource_link 7202f9bf-94b4-33fc-7f69-0ef73b511c93 "Next" %}} »

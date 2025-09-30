@@ -24,7 +24,7 @@ The goods purchased by consumers are produced by firms, another key set of econo
 
   {{% resource_link c282655d-a496-1349-b75e-5b0e7692c61b "Introduction to Producer Theory" %}}
 
-  _This image is a work of the US Federal Government and in the public domain. Source: [Library of Congress](http://www.loc.gov/pictures/resource/fsac.1a34951/)._
+  _This image is a work of the US Federal Government and in the public domain. Source: {{% resource_link "e4d02328-bedf-4644-9e55-c4c6ecbead1c" "Library of Congress" %}}._
 
 
 {{< tdclose >}}
@@ -40,7 +40,7 @@ The goods purchased by consumers are produced by firms, another key set of econo
 
   {{% resource_link 35e2a9c4-1897-5d5d-2bfc-b2dfa5fa18ac "Productivity and Costs" %}}
 
-  _Image courtesy of AndreasPraefcke on [Wikipedia](http://en.wikipedia.org/wiki/File:Wolfsburg_VW-Werk.jpg)._
+  _Image courtesy of AndreasPraefcke on {{% resource_link "33507665-dac1-4908-a981-58f6b762603a" "Wikipedia" %}}._
 
 
 {{< tdclose >}}
@@ -56,7 +56,7 @@ The goods purchased by consumers are produced by firms, another key set of econo
 
   {{% resource_link c51a6858-5b2e-cbf5-8359-4f4bc69947e1 "Competition I" %}}
 
-  _This image is a work of the US Federal Government and in the public domain. Source: [Wikipedia](http://en.wikipedia.org/wiki/File:NASCAR_practice.jpg)._
+  _This image is a work of the US Federal Government and in the public domain. Source: {{% resource_link "568a4c27-6bc9-49a0-b41a-3fa1f5ce62a8" "Wikipedia" %}}._
 
 
 {{< tdclose >}}
@@ -72,7 +72,7 @@ The goods purchased by consumers are produced by firms, another key set of econo
 
   {{% resource_link 032b458b-15b1-6f20-7453-36ff876c9f66 "Competition II" %}}
 
-  _Image courtesy of [johnthurm](http://www.flickr.com/photos/thurm/2111952075/in/photostream/) on Flickr._
+  _Image courtesy of {{% resource_link "ed9d6ba6-cb6b-426e-a287-2da379481b3f" "johnthurm" %}} on Flickr._
 
 
 {{< tdclose >}}

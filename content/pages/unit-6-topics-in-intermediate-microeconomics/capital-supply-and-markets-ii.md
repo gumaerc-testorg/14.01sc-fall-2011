@@ -27,7 +27,7 @@ Session Overview
 
 Now that we understand what the cost and benefits are of different consumption and investment decisions over time, we can understand how both firms and individual consumers make decisions about how much to invest in different types of opportunities. In this lecture, we will discuss how individuals make major decisions, such as whether to attend college and how much to save for retirement.
 
-_The savings of individuals drive the growth of our economy. Image courtesy of [B3OK](http://www.flickr.com/photos/b3ok/2920350568/in/photostream/) on Flickr._
+_The savings of individuals drive the growth of our economy. Image courtesy of {{% resource_link "ace1051b-a991-4b49-8cea-3896a1c09e95" "B3OK" %}} on Flickr._
 
 
 {{< tdclose >}}
