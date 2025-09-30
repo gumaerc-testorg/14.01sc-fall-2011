@@ -27,7 +27,7 @@ Session Overview
 
 Economics may have a reputation as a dismal science, but in fact it addresses some of the most fundamental problems we face: How to make the best decision given that resources are limited. You can use the tools of microeconomics to decide how best to spend your income; how best to divide your time among leisure activities; or how many people to hire in the business you run. Life is full of choices. Microeconomics can help you decide how to make them.
 
-_Economics can't help you make a selection from this box of chocolates, but can be a vital tool in other decision-making situations. Image courtesy of_ [_ninanord_](http://www.flickr.com/photos/ninsvims/3264175368/) _on Flickr._
+_Economics can't help you make a selection from this box of chocolates, but can be a vital tool in other decision-making situations. Image courtesy of_ {{% resource_link "47defec8-de89-468c-99b8-3af3288aa3ca" "_ninanord_" %}} _on Flickr._
 
 
 {{< tdclose >}}

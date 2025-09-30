@@ -40,7 +40,7 @@ Up to this point, we have analyzed the operation of firms in a perfectly competi
 
   {{% resource_link 50af805f-c0a0-d661-779c-f0c42425f15d "Monopoly II" %}}
 
-  _Image courtesy of [John Taylor](http://www.flickr.com/photos/jbtaylor/5566452462/in/photostream/) on Flickr._
+  _Image courtesy of {{% resource_link "9a45fbf0-63ae-41c7-a8cf-e3a38aabfa32" "John Taylor" %}} on Flickr._
 
 
 {{< tdclose >}}
@@ -56,7 +56,7 @@ Up to this point, we have analyzed the operation of firms in a perfectly competi
 
   {{% resource_link 2345b16d-4f54-dfc7-a811-91d1d1abbca2 "Oligopoly I" %}}
 
-  _Image courtesy of [Sheep purple](http://www.flickr.com/photos/sheeppurple/2665016444/) on Flickr._
+  _Image courtesy of {{% resource_link "a910d668-6a56-4713-8495-c999d5434835" "Sheep purple" %}} on Flickr._
 
 
 {{< tdclose >}}
@@ -72,7 +72,7 @@ Up to this point, we have analyzed the operation of firms in a perfectly competi
 
   {{% resource_link 2954fa84-88a1-a8cb-0a6a-bcfda77e25b9 "Oligopoly II" %}}
 
-  _Image courtesy of [ElCapitan](http://www.flickr.com/photos/elcapitan/2388687600/in/photostream/) on Flickr._
+  _Image courtesy of {{% resource_link "9cdcbc9f-1704-4eb7-9f6c-12270b5486ae" "ElCapitan" %}} on Flickr._
 
 
 {{< tdclose >}}

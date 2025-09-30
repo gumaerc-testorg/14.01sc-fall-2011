@@ -27,7 +27,7 @@ Session Overview
 
 So far, we have only analyzed one type of oligopoly. However, even when there are a small number of firms in a market, they can behave in a variety of different ways. We can compare the outcomes from these different types of competition to the competitive market. In this lecture, we learn more about different models of oligopoly.
 
-_Bertrand price competition can be applied to pricing cereal. Image courtesy of [ElCapitan](http://www.flickr.com/photos/elcapitan/2388687600/in/photostream/) on Flickr._
+_Bertrand price competition can be applied to pricing cereal. Image courtesy of {{% resource_link "9cdcbc9f-1704-4eb7-9f6c-12270b5486ae" "ElCapitan" %}} on Flickr._
 
 
 {{< tdclose >}}
